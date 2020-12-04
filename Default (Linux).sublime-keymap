@@ -1,0 +1,202 @@
+[
+	// Most useful unchanged
+		{ "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+		{ "keys": ["alt+-"], "command": "jump_back" },
+		{ "keys": ["alt+shift+-"], "command": "jump_forward" },
+		{ "keys": ["ctrl+,"], "command": "prev_modification" },
+		{ "keys": ["ctrl+."], "command": "next_modification" },
+
+	
+	// Marks (probably won't use)
+		{ "keys": ["ctrl+k", "ctrl+space"], "command": "set_mark" },
+		{ "keys": ["ctrl+k", "ctrl+shift+space"], "command": "clear_bookmarks", "args": {"name": "mark"} }, // originally ctrl+k,ctrl+g
+		{ "keys": ["ctrl+k", "ctrl+a"], "command": "select_to_mark" }, 
+
+	// Aditional maps
+
+		//{ "keys": ["ctrl+alt+["], "command": "fold" },
+		//{ "keys": ["ctrl+alt+]"], "command": "unfold" },
+		//{ "keys": ["ctrl+alt+o"], "command": "close_pane" },
+		//{  "keys": ["ctrl+shift+o"], "command": "close_pane" },
+
+	// Replacing incremental find iwth quick find
+		{ "keys": ["ctrl+alt+i"], "command": "find_all_under" },
+		{ "keys": ["ctrl+i"], "command": "find_under" },
+		{ "keys": ["ctrl+shift+i"], "command": "find_under_prev" },
+	
+	// Close and open Find panel on repeated press
+		{ "keys": ["ctrl+f"], "command": "hide_panel", "args": {"cancel": true},
+				"context": [{"key": "panel", "operand": "find"}, {"key": "panel_has_focus"}]
+		},
+
+	// Previously unassigned key
+		// Folding can be mapped to "ctrl+alt+num"
+		//{ "keys": ["ctrl+shift+o"], "command": "prompt_open_project" },
+		{ "keys": ["ctrl+alt+s"], "command": "save_all" },
+		{ "keys": ["ctrl+alt+d"], "command": "find_under_expand_skip" },
+
+	// Toggle the Sidebar and tabs
+		{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
+		{ "keys": ["ctrl+shift+\\"], "command": "toggle_tabs" },
+
+	// Terminus
+		
+		{ "keys": ["ctrl+shift+alt+t"], "command": "reopen_last_file" }, //remap of default "ctrl+shift+t"
+		{ "keys": ["ctrl+shift+t"], "command": "terminus_focus_or_open_direction_prompted", },
+		// add functionality with "Window_focus" command to cycle between last active and terminus
+		
+		{ "keys": ["ctrl+w"], "command": "terminus_close", "context": [{"key": "terminus_view"}] },
+
+		//{ "keys": ["ctrl+t"], "command": "transpose" }, //original binding
+		{ "keys": ["ctrl+t"], "command": "foo", },
+
+		{ "keys": ["ctrl+t","r"], "command": "multicommand", "args": {
+			"commands": [
+				{ "command": "save"},
+				{ "command": "terminus_re_run" }, //create plugin "keystrokes to terminus"
+			] },
+			"context": [{"key": "terminus_view", "operator": "not_equal"}], 		
+		},
+
+	// SendCode
+		
+		{ "keys": ["ctrl+space"], "command": "pass_code",
+			"context": [ {"key": "terminus_view", "operator": "not_equal"}, ]
+		},
+
+		{
+	        "keys": ["ctrl+t","o"], "command": "send_code",
+	        "args": {"cmd": "matlab -nodesktop -nosplash \n"},
+	        "context": [
+	            { "key": "selector", "operator": "equal", "operand": "source.matlab" }
+	        ]
+	    },
+		{
+			"keys": ["ctrl+t","c"], "command": "send_code",
+        	"args": {"cmd": "cd ${file_path}"},
+	        "context": [
+	            { "key": "selector", "operator": "equal", "operand": "source.matlab" },
+	        ]
+        },
+
+	    {
+	        "keys": ["ctrl+t","o"], "command": "send_code",
+	        "args": {"cmd": "julia \n"},
+	        "context": [
+	            { "key": "selector", "operator": "equal", "operand": "source.julia" }
+	        ]
+	    },
+        {
+	        "keys": ["ctrl+t","c"], "command": "send_code",
+	        "args": {"cmd": "cd(\"$file_path\")"},
+	        "context": [
+	            { "key": "selector", "operator": "equal", "operand": "source.julia" },
+	        ]
+	    },
+
+	    {
+	        "keys": ["ctrl+t","o"], "command": "send_code",
+	        "args": {"cmd": "python3 -u \n"},
+	        "context": [
+	            { "key": "selector", "operator": "equal", "operand": "source.python" }
+	        ]
+	    },
+
+	// Personalizing auto-complete
+
+		{ "keys": ["tab"], "command": "insert", "args": {"characters": "\t"} }, 
+		{ "keys": ["shift+enter"], "command": "commit_completion", "context":
+			[
+				{ "key": "auto_complete_visible" },
+				{ "key": "setting.auto_complete_commit_on_tab", "operand": false }
+			]
+		},
+	
+		{ "keys": ["enter"], "command": "insert", "args": {"characters": "\n"}, "context": [
+				{"key": "terminus_view", "operator": "not_equal", "operand": true},
+				//{"key": "panel_has_focus", "operator": "not_equal", "operand": true}
+				{"key": "panel", "operator": "not_equal", "operand": "find"},
+				{"key": "panel", "operator": "not_equal", "operand": "replace"},
+				{"key": "panel", "operator": "not_equal", "operand": "incremental_find"},
+			]
+		},
+
+	// Origami
+		{ "keys": ["ctrl+'"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} }, // originally "ctrl+;"
+	
+		{ "keys": ["ctrl+;", "d"], "command": "travel_to_pane", "args": {"direction": "up"} },
+		{ "keys": ["ctrl+;", "f"], "command": "travel_to_pane", "args": {"direction": "right"} },
+		{ "keys": ["ctrl+;", "s"], "command": "travel_to_pane", "args": {"direction": "down"} },
+		{ "keys": ["ctrl+;", "a"], "command": "travel_to_pane", "args": {"direction": "left"} },
+		
+		{ "keys": ["ctrl+;", "e"], "command": "carry_file_to_pane", "args": {"direction": "up"} },
+		{ "keys": ["ctrl+;", "r"], "command": "carry_file_to_pane", "args": {"direction": "right"} },
+		{ "keys": ["ctrl+;", "w"], "command": "carry_file_to_pane", "args": {"direction": "down"} },
+		{ "keys": ["ctrl+;", "q"], "command": "carry_file_to_pane", "args": {"direction": "left"} },
+		
+		{ "keys": ["ctrl+;", "c"], "command": "destroy_pane", "args": {"direction": "up"} },
+		{ "keys": ["ctrl+;", "v"], "command": "destroy_pane", "args": {"direction": "right"} },
+		{ "keys": ["ctrl+;", "x"], "command": "destroy_pane", "args": {"direction": "down"} },
+		{ "keys": ["ctrl+;", "z"], "command": "destroy_pane", "args": {"direction": "left"} },
+		// You can also destroy the current pane by binding the following command:
+		// { "keys": [], "command": "destroy_pane", "args": {"direction": "self"} },
+		{ "keys": ["ctrl+;", "g"], "command": "destroy_pane", "args": {"direction": "self"} },
+
+
+		{ "keys": ["ctrl+;", "4"], "command": "create_pane", "args": {"direction": "right", "give_focus": true} },
+		{ "keys": ["ctrl+;", "2"], "command": "create_pane", "args": {"direction": "down", "give_focus": true} },
+		{ "keys": ["ctrl+;", "3"], "command": "create_pane", "args": {"direction": "up", "give_focus": true} },
+		{ "keys": ["ctrl+;", "1"], "command": "create_pane", "args": {"direction": "left", "give_focus": true} },
+		// You can also add	"give_focus": true to automatically focus on the new pane as follows:
+		// { "keys": [], "command": "create_pane", "args": {"direction": "", "give_focus": true} }
+
+		{ "keys": ["ctrl+shift+'", "d"], "command": "clone_file_to_pane", "args": {"direction": "up"} },
+		{ "keys": ["ctrl+shift+'", "f"], "command": "clone_file_to_pane", "args": {"direction": "right"} },
+		{ "keys": ["ctrl+shift+'", "s"], "command": "clone_file_to_pane", "args": {"direction": "down"} },
+		{ "keys": ["ctrl+shift+'", "a"], "command": "clone_file_to_pane", "args": {"direction": "left"} },
+		// You can also create the pane automatically with the following command (insert empty parameters):
+		// { "keys": [], "command": "create_pane_with_cloned_file", "args": {"direction": ""} }
+
+		// Redundant by usage
+			{ "keys": ["ctrl+shift+'", "4"], "command": "create_pane", "args": {"direction": "right"} },
+			{ "keys": ["ctrl+shift+'", "2"], "command": "create_pane", "args": {"direction": "down"} },
+			{ "keys": ["ctrl+shift+'", "3"], "command": "create_pane", "args": {"direction": "up"} },
+			{ "keys": ["ctrl+shift+'", "1"], "command": "create_pane", "args": {"direction": "left"} },
+			
+		// Absolutely redundant
+			{ "keys": ["ctrl+shift+'", "e"], "command": "create_pane_with_file", "args": {"direction": "up"} },
+			{ "keys": ["ctrl+shift+'", "r"], "command": "create_pane_with_file", "args": {"direction": "right"} },
+			{ "keys": ["ctrl+shift+'", "w"], "command": "create_pane_with_file", "args": {"direction": "down"} },
+			{ "keys": ["ctrl+shift+'", "q"], "command": "create_pane_with_file", "args": {"direction": "left"} },
+		
+
+		// You can pull a file from another pane by binding the following command:
+		// { "keys": [], "command": "pull_file_from_pane", "args": { "direction": ""} }
+
+		{ "keys": ["ctrl+;", "ctrl+z"], "command": "zoom_pane", "args": {"fraction": 0.9} },
+		{ "keys": ["ctrl+shift+'", "ctrl+z"], "command": "unzoom_pane", "args": {} },
+
+		{ "keys": ["ctrl+;", "m"], "command": "resize_pane", "args": {"orientation": "cols"} },
+		{ "keys": ["ctrl+;", "n"], "command": "resize_pane", "args": {"orientation": "rows"} },
+
+
+		// The great unbinding
+			//{ "keys": ["ctrl+alt+/"],"command": "toggle_comment", "args": { "block": false } },
+			//{ "keys": ["ctrl+shift+/"],"command": "toggle_comment", "args": { "block": true } },
+
+			{ "keys": ["ctrl+k", "up"],"command": "unbound"},
+			{ "keys": ["ctrl+k", "down"],"command": "unbound"},
+			{ "keys": ["ctrl+k", "left"],"command": "unbound"},
+			{ "keys": ["ctrl+k", "right"],"command": "unbound"},
+
+			{ "keys": ["ctrl+k", "ctrl+up"],"command": "unbound"},// "command": "new_pane" },
+			{ "keys": ["ctrl+k", "ctrl+shift+up"],"command": "unbound"},// "command": "new_pane", "args": {"move": false} },
+			{ "keys": ["ctrl+k", "ctrl+down"],"command": "unbound"},// "command": "close_pane" },
+			{ "keys": ["ctrl+k", "ctrl+left"],"command": "unbound"},// "command": "focus_neighboring_group", "args": {"forward": false} },
+			{ "keys": ["ctrl+k", "ctrl+right"],"command": "unbound"},// "command": "focus_neighboring_group" },
+			{ "keys": ["ctrl+k", "ctrl+shift+left"],"command": "unbound"},// "command": "move_to_neighboring_group", "args": {"forward": false} },
+			{ "keys": ["ctrl+k", "ctrl+shift+right"],"command": "unbound"},// "command": "move_to_neighboring_group" },
+
+		
+	 
+]

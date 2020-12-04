@@ -1,0 +1,151 @@
+[
+	// Commands to open Certain Preferences
+	{
+		"caption": "Preferences: Commands - User",
+		"command": "open_file", "args": {
+			"file": "${packages}/User/Default.sublime-commands",
+			}
+	},
+	{
+		"caption": "Preferences: Key Binding - User",
+		"command": "open_file", "args": {
+			"file": "${packages}/User/Default ($platform).sublime-keymap",
+			}
+	},
+	{
+		"caption": "Preferences: Mouse Bindings - User",
+		"command": "open_file", "args": {
+			"file": "${packages}/User/Default ($platform).sublime-mousemap",
+			}
+	},
+	{
+		"caption": "Preferences: Commands",
+		"command": "edit_settings",
+		"args":
+		{
+			"base_file": "${packages}/Default/Default.sublime-commands",
+			"user_file": "${packages}/User/Default.sublime-commands",
+			"default": "[\n\t$0\n]\n"
+		}
+	},
+	{
+		"caption": "Preferences: Mouse Bindings (Platform)",
+		"command": "edit_settings",
+		"args":
+		{
+			"base_file": "${packages}/Default/Default ($platform).sublime-mousemap",
+			"user_file": "${packages}/User/Default ($platform).sublime-mousemap",
+			"default": "[\n\t$0\n]\n"
+		}
+	},
+
+	// Toggle settings  
+	{
+		"caption": "SendCode: Toggle Auto Advance",
+		"command": "toggle_any_setting", "args":{
+			"settings_base_name": "SendCode.sublime-settings",
+			"setting": "auto_advance",
+		}
+	},
+	{
+		"caption": "SendCode: Toggle Auto Advance Non-Empty",
+		"command": "toggle_any_setting", "args":{
+			"settings_base_name": "SendCode.sublime-settings",
+			"setting": "auto_advance_non_empty",
+		}
+	},
+
+	// Universal Terminus Commands
+	{
+		"caption": "Terminus: Re-Run last command",
+		"command": "terminus_re_run",
+	},
+
+	// Focus or Open Terminus
+	{
+		"caption": "Terminus: Focus instance",
+		"command": "terminus_focus",
+	},
+	{
+		"caption": "Terminus: Focus or Open with Direction Prompt",
+		"command": "terminus_focus_or_open_direction_prompted",
+	},
+	{
+		"caption": "Terminus: Open with Direction Prompt",
+		"command": "terminus_open_direction_prompted",
+	},
+	
+	// SendCodeCommands
+
+	{
+		"caption": "SendCode: Pass Code",
+		"command": "pass_code",
+	},
+
+	{
+		"caption": "SendCode: Start Julia REPL",
+		"command": "send_code",
+			"args": {"cmd": "julia \n"},
+			"context": [
+				{ "key": "selector", "operator": "equal", "operand": "source.julia" }
+			]
+		},
+	{
+		"caption": "SendCode: Start Matlab REPL",
+		"command": "send_code",
+			"args": {"cmd": "matlab -nodesktop -nosplash \n"},
+			"context": [
+				{ "key": "selector", "operator": "equal", "operand": "source.matlab" }
+			]
+	},
+	{
+		"caption": "SendCode: add Matlab FuncBasket path",
+		"command": "send_code",
+			"args": {"cmd": "addpath('/home/liesk/Dropbox/Everything/MATLAB/MATLAB_func_basket')"},
+			"context": [
+				{ "key": "selector", "operator": "equal", "operand": "source.matlab" }
+			]
+	},
+
+	{
+		"caption": "SendCode: Open File in Matlab Editor",
+		"command": "send_code",
+			"args": {"cmd": "edit $file_base_name \n"},
+			"context": [
+				{ "key": "selector", "operator": "equal", "operand": "source.matlab" }
+			]
+	},
+	
+	// Made redundant by SendCode
+		/*
+		{
+			"caption": "Terminus: Send Selection to Terminus",
+			"command": "send_selection_to_terminus",
+		},
+		{
+			"caption": "Terminus: 'cd' to Current File Directory",
+			"command": "cd_to_file_directory_terminus",
+		},
+		{
+			"caption": "Terminus: Save + Run current .m File in Running Matlab/Octave Command Line",
+			"command": "multicommand",
+					"args": {
+						"commands": [
+							{"command": "save"},
+							{"command": "run_matlab_file_in_terminus"}
+						]
+					},
+		},
+		{
+			"caption": "Terminus: Save + Run .py file",
+			"command": "multicommand",
+					"args": {
+						"commands": [
+							{"command": "save"},
+							{"command": "run_python_file_in_terminus"}
+						]
+					}
+		},
+		*/
+	
+]

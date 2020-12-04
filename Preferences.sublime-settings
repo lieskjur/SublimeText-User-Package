@@ -1,0 +1,56 @@
+{
+	"auto_complete": true,
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
+	"auto_indent": true,
+	"auto_match_enabled": false,
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"dictionary": "Packages/Language - English/en_GB.dic",
+	"fade_fold_buttons": true,
+	"font_size": 9,
+	"ignore_vcs_packages": true,
+	"ignored_packages":
+	[
+		"ActionScript",
+		"AppleScript",
+		"ASP",
+		"C#",
+		"Clojure",
+		"D",
+		"Erlang",
+		"Git",
+		"Git Formats",
+		"Haskell",
+		"HTML",
+		"Java",
+		"JavaScript",
+		"Lisp",
+		"Lua",
+		"Makefile",
+		"Objective-C",
+		"Pascal",
+		"Perl",
+		"PHP",
+		"R",
+		"Rails",
+		"Ruby",
+		"Rust",
+		"ShellScript",
+		"Vintage"
+	],
+	"line_padding_bottom": 5,
+	"line_padding_top": 4,
+	"preview_on_click": false,
+	"remember_full_screen": true,
+	"show_encoding": true,
+	"show_full_path": false,
+	"smart_indent": true,
+	"theme": "Adaptive.sublime-theme"
+}

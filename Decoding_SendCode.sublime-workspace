@@ -1,0 +1,1856 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"vv",
+				"vv_m_B"
+			],
+			[
+				"p",
+				"pp_m_D"
+			],
+			[
+				"pp_",
+				"pp_m_B"
+			],
+			[
+				"F_",
+				"F_M_y"
+			],
+			[
+				"n",
+				"n_s"
+			],
+			[
+				"C",
+				"C1_CD"
+			],
+			[
+				"Mo",
+				"Mo_BC"
+			],
+			[
+				"C1_",
+				"C1_CD"
+			],
+			[
+				"q",
+				"q_e1"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"beta",
+				"beta7t"
+			],
+			[
+				"an",
+				"animace_xy_2"
+			],
+			[
+				"animace_",
+				"animace_M_xy"
+			],
+			[
+				"alph",
+				"\\alpha                                            \tlatex-mathsymbols"
+			],
+			[
+				"else",
+				"else\telse"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"be",
+				"\\begin{equation}                                  \tlatex-document"
+			],
+			[
+				"equatio",
+				"\\begin{equation}                                  \tlatex-document"
+			],
+			[
+				"subsub",
+				"\\subsubsection*{title}                            \tlatex-document"
+			],
+			[
+				"bibli",
+				"\\bibliography{file}                               \tlatex-document"
+			],
+			[
+				"itemzie",
+				"\\begin{itemize}                                   \tlatex-document"
+			],
+			[
+				"k",
+				"k"
+			],
+			[
+				"FF_a",
+				"FF_a"
+			],
+			[
+				"array",
+				"array_unpack_1D"
+			],
+			[
+				"F_t",
+				"F_t"
+			],
+			[
+				"P_",
+				"P_III"
+			],
+			[
+				"unpa",
+				"array_unpack_1D"
+			],
+			[
+				"i",
+				"if\tIf Condition"
+			],
+			[
+				"AA",
+				"AA"
+			],
+			[
+				"R_A",
+				"R_A"
+			],
+			[
+				"R_E",
+				"R_E"
+			],
+			[
+				"F",
+				"F_a43"
+			],
+			[
+				"expor",
+				"export_var"
+			],
+			[
+				"ep",
+				"export_var"
+			],
+			[
+				"expo",
+				"export_var"
+			],
+			[
+				"func",
+				"func_m_n_P"
+			],
+			[
+				"tau",
+				"tau_D_III"
+			],
+			[
+				"exp",
+				"export_var"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/choose_prog.py",
+			"settings":
+			{
+				"buffer_size": 2093,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/Matlab/Matlab.sublime-syntax",
+			"settings":
+			{
+				"buffer_size": 67180,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/getter.py",
+			"settings":
+			{
+				"buffer_size": 15872,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/betterment_tools.txt",
+			"settings":
+			{
+				"buffer_size": 343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "find(pattern, start_point, <flags>)"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/ToDo.txt",
+			"settings":
+			{
+				"buffer_size": 60,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_sender/sender.py",
+			"settings":
+			{
+				"buffer_size": 10689,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/send_code.py",
+			"settings":
+			{
+				"buffer_size": 928,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/exec.py",
+			"settings":
+			{
+				"buffer_size": 331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/settings.py",
+			"settings":
+			{
+				"buffer_size": 2936,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "import sublime\nself.s = sublime.load_settings(\"SendCode.sublime-settings\")",
+			"settings":
+			{
+				"buffer_size": 74,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/Terminus/TerminusReRun.py",
+			"settings":
+			{
+				"buffer_size": 868,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/Dropbox/Everything/Julia/Julia_Demo.jl",
+			"settings":
+			{
+				"buffer_size": 172,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/Dropbox/Everything/MATLAB/MATLAB_projects/SendCode_matlab_demo.m",
+			"settings":
+			{
+				"buffer_size": 463,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/get_extra.py",
+			"settings":
+			{
+				"buffer_size": 1494,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/liesk/Dropbox/Everything/Python/rad_print.py",
+			"settings":
+			{
+				"buffer_size": 172,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "liesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ cd /home/liesk/Dropbox/Everything/MATLAB/MATLA​‌​\nB_projects\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ clear all; close all; clc;\nUsage: clear [options]\n\nOptions:\n  -T TERM     use this instead of $TERM\n  -V          print curses-version\n  -x          do not try to clear scrollback\nbash: close: command not found\nbash: clc: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ M = [   3 4;\nbash: M: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$         1 2 ];\nbash: 1: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ %{\nbash: fg: %{: no such job\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$     block comments\nbash: block: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$     M(2,2)\nbash: syntax error near unexpected token `2,2'\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ %}\nbash: fg: %}: no such job\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ M(2,2)\nbash: syntax error near unexpected token `2,2'\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ %>>\nbash: syntax error near unexpected token `newline'\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ a = 1;\nbash: a: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ h = zeros(1,3);\nbash: syntax error near unexpected token `('\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ %<<\nbash: syntax error near unexpected token `newline'\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ for i = 1:3\nbash: syntax error near unexpected token `='\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$     h(i) = a + i;\nbash: syntax error near unexpected token `i'\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$     %{\nbash: fg: %{: no such job\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$         ignores this comment b​‌​\nlock\nbash: ignores: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$     %}\nbash: fg: %}: no such job\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$     g = h(end); % doesn't snag​‌​\n on this either\nbash: syntax error near unexpected token `('\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ end; a\nbash: end: command not found\nbash: a: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ f = @(x) [  x\nbash: f: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$             x^2\nbash: x^2: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$             x/3]\nbash: x/3]: No such file or directory\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ octave\nGNU Octave, version 5.2.0\nCopyright (C) 2020 John W. Eaton and others.\nThis is free software; see the source code for copying conditions.\nThere is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE.  For details, type 'warranty'.\n\nOctave was configured for \"x86_64-pc-linux-gnu\".\n\nAdditional information about Octave is available at https://www.octave.org.\n\nPlease contribute if you find this software useful.\nFor more information, visit https://www.octave.org/get-involved.html\n\nRead https://www.octave.org/bugs.html to learn how to submit bug reports.\nFor information about changes from previous versions, type 'news'.\n\noctave:1> clear all; close all; clc;\noctave:2> M = [   3 4;                                       \n>         1 2 ];         \noctave:3> %{                                \n>     block comments                                              \n>     M(2,2)                                                    \n> %}                                                            \noctave:3> %>>\noctave:3> a = 1;                                \noctave:4> h = zeros(1,3);\noctave:5> %<<                                                              \noctave:5> for i = 1:3\n>     h(i) = a + i;                                \n>     %{                                                            \n>         ignores this comment block\n>     %}                                                                 \n>     g = h(end); % doesn't snag on this either                   \n> end; a\na =  1                              \noctave:6> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:7> c = 4;\noctave:8>             x/3]\nparse error:\n\n  syntax error\n\n>>>             x/3]\n                   ^\n\noctave:8> clear all; close all; clc;                                                                 \noctave:9> M = [   3 4;                                              \n>         1 2 ];                    \noctave:10>         1 2 ];                                                \nparse error:                                                      \n        \n  syntax error                      \n                       \n>>>         1 2 ];\n              ^   \n   \noctave:10>         1 2 ];\nparse error:          \n\n  syntax error  \n                          \n>>>         1 2 ];\n              ^\n              \noctave:10> %{\n>     block comments\n>     M(2,2)        \n> %}\noctave:10> %>>                                                                                       \noctave:10> a = 1;\noctave:11> h = zeros(1,3);\noctave:12> %<<\noctave:12> for i = 1:3\n>     h(i) = a + i;\n>     %{\n>         ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n> end; a\na =  1\noctave:13> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:14> clear all; close all; clc;\noctave:15> M = [   3 4;\n>         1 2 ];    \noctave:16> %{\n>     block comments                                                                                 \n>     M(2,2)     \n> %}                      \noctave:16> %>>\noctave:16> a = 1;     \noctave:17> h = zeros(1,3);\noctave:18> %<<\noctave:18> for i = 1:3              \n>     h(i) = a + i;\n>     %{                                       \n>         ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n> end; a         \na =  1            \noctave:19> f = @(x) [  x\n>             x^2\n>             x/3]    \nf =\n                                     \n@(x) [x; x ^ 2; x / 3]\n\noctave:20> c = 4;\noctave:21>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:21> clear all; close all; clc;\noctave:22> clear all; close all; clc;          \noctave:23> M = [   3 4;                        \n>         1 2 ];                    \noctave:24> %{\n>     block comments                           \n>     M(2,2)     \n> %}              \noctave:24> clear all; close all; clc;\noctave:25> M = [   3 4;                        \n>         1 2 ];                    \noctave:26> %{\n>     block comments                           \n>     M(2,2)     \n> %}              \noctave:26>         1 2 ];            \nparse error:     \n                      \n  syntax error\n                                     \n>>>         1 2 ];    \n              ^\n                 \noctave:26> %{            \n>     block comments\n>     M(2,2)\n> %}          \noctave:26> N = [ 4 5 ];\noctave:27>        \noctave:27> M = [   3 4;\n>         1 2 ];\noctave:28> N = [ 4 5 ];              \noctave:29>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:29> clear all; close all; clc;\noctave:30> M = [   3 4;\n>         1 2 ];                     \noctave:31> N = [ 4 5 ];\noctave:32>         1 2 ];\nparse error:     \n                         \n  syntax error      \n            \n>>>         1 2 ];\n              ^        \n                  \noctave:32>             \noctave:32> M = [   3 4;\n>         1 2 ];                     \noctave:33> N = [ 4 5 ];  \noctave:34>         1 2 ];\nparse error:\n              \n  syntax error\n                  \n>>>         1 2 ];\n              ^\n                                     \noctave:34>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:34> clear all; close all; clc;\noctave:35> M = [   3 4;\n>         1 2 ];  \noctave:36> N = [ 4 5 ];\noctave:37>         1 2 ];\nparse error:                         \n                         \n  syntax error           \n            \n>>>         1 2 ];\n              ^\n                  \noctave:37>         1 2 ];\nparse error:   \n                                     \n  syntax error           \n            \n>>>         1 2 ];\n              ^\n\noctave:37>        \noctave:37> M = [   3 4;\n>         4 5\n>         1 2 ];                     \noctave:38>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:38> N = [ 4 5 ];\noctave:39> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:39> %>>\noctave:39> a = 1;\noctave:40> h = zeros(1,3);\noctave:41> %<<\noctave:41> %{ dsfdf\noctave:41>     dont = 1;\noctave:42> %}\noctave:42> \noctave:42> %{ dsfdf\noctave:42>     dont = 1;\noctave:43> %}\noctave:43> %}\noctave:43> %{ dsfdf\noctave:43>     dont = 1;\noctave:44> %}\noctave:44>     M(2,2)\nans =  5\noctave:45> %}\noctave:45> %{ dsfdf\noctave:45>     dont = 1;\noctave:46> %}\noctave:46> \noctave:46> %{ dsfdf\noctave:46>     dont = 1;\noctave:47> %}\noctave:47> \noctave:47> M = [   3 4;\n>         4 5\n>         1 2 ];\noctave:48> N = [ 4 5 ];\noctave:49> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:49> %{ dsfdf\noctave:49>     dont = 1;\noctave:50> %}\noctave:50> \noctave:50> M = [   3 4;\n>         4 5\n>         1 2 ];\noctave:51> N = [ 4 5 ];\noctave:52>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:52> N = [ 4 5 ];\noctave:53>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:53>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:53> M = [   3 4;\n>         4 5\n>         1 2 ];\noctave:54>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:54>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:54>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:54> \noctave:54> M = [   3 4;\n>         4 5\n>         1 2 ];\noctave:55> N = [ 4 5 ];\noctave:56>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:56> M = [   3 4;\n>         1 2 ];\noctave:57> \noctave:57> M = [   3 4;\n>         1 2 ];\noctave:58> N = [ 4 5 ];\noctave:59>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:59> \noctave:59> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:60>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:60>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:60>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:60> \noctave:60> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:61> N = [ 4 5 ];\noctave:62>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:62>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:62> \noctave:62> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:63> N = [ 4 5 ];\noctave:64>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:64> \noctave:64> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:65>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:65> N = [ 4 5 ];\noctave:66>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:66> clear all; close all; clc;\noctave:67> M = [   3 4;\n>         4 5;\n>         1 2 ];       \noctave:68> N = [ 4 5 ];\noctave:69>         1 2 ];\nparse error:             \n            \n  syntax error\n              \n>>>         1 2 ];\n              ^   \n               \noctave:69> N = [ 4 5 ];\noctave:70>             \noctave:70> M = [   3 4;  \n>         4 5;\n>         1 2 ];\noctave:71> N = [ 4 5 ];\noctave:72>         1 2 ];\nparse error:      \n               \n  syntax error\n                                     \n>>>         1 2 ];\n              ^\n\noctave:72> \noctave:72> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:73>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:73> \noctave:73> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:74>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:74> N = [ 4 5 ];\noctave:75> \noctave:75> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:76>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:76> N = [ 4 5 ];\noctave:77>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:77> \noctave:77> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:78> \noctave:78> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:79> \noctave:79> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:80>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:80> clear all; close all; clc;\noctave:81> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:82> N = [ 4 5 ];\noctave:83>         1 2 ];\nparse error:    \n           \n  syntax error         \n              \n>>>         1 2 ];\n              ^\n                       \noctave:83> N = [ 4 5 ];                                                                                           \noctave:84>         1 2 ];\nparse error:             \n            \n  syntax error\n              \n>>>         1 2 ];\n              ^   \n               \noctave:84> N = [ 4 5 ];\noctave:85>         1 2 ];            \nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:85> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:86>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:86> \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ python3 -u\nPython 3.8.5 (default, Jul 28 2020, 12:59:40) \n[GCC 9.3.0] on linux\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> exit()                                                                                                        \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ octave\nGNU Octave, version 5.2.0\nCopyright (C) 2020 John W. Eaton and others.\nThis is free software; see the source code for copying conditions.\nThere is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE.  For details, type 'warranty'.\n\nOctave was configured for \"x86_64-pc-linux-gnu\".\n\nAdditional information about Octave is available at https://www.octave.org.\n\nPlease contribute if you find this software useful.\nFor more information, visit https://www.octave.org/get-involved.html\n\nRead https://www.octave.org/bugs.html to learn how to submit bug reports.\nFor information about changes from previous versions, type 'news'.\n\noctave:1> \noctave:1> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:2> N = [ 4 5 ];\noctave:3>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:3> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:4> N = [ 4 5 ];\noctave:5>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:5> N = [ 4 5 ];\noctave:6> \noctave:6> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:7>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:7> \noctave:7> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:8> N = [ 4 5 ];\noctave:9>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:9> \noctave:9> clear all; close all; clc;\noctave:10> M = [   3 4;\n>         4 5;  \n>         1 2 ];        \noctave:11>         1 2 ];\nparse error:\n              \n  syntax error\n                  \n>>>         1 2 ];\n              ^\n          \noctave:11> clear all; close all; clc;\noctave:12> M = [   3 4;\n>         4 5;  \n>         1 2 ];        \noctave:13> N = [ 4 5 ];  \noctave:14>         1 2 ];\nparse error:  \n              \n  syntax error    \n                  \n>>>         1 2 ];\n              ^\n                                     \noctave:14>    \noctave:14> M = [   3 4;\n>         4 5;        \n>         1 2 ];        \noctave:15>         1 2 ];\nparse error:\n              \n  syntax error\n                  \n>>>         1 2 ];\n              ^\n          \noctave:15>                          \noctave:15> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:16> \noctave:16> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:17>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:17> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:18> N = [ 4 5 ];\noctave:19>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:19> \noctave:19> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:20>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:20>         4 5;\nparse error:\n\n  syntax error\n\n>>>         4 5;\n              ^\n\noctave:20>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:20>         1 2 ];\nparse error:\n\n  syntax error\n\n>>>         1 2 ];\n              ^\n\noctave:20>         4 5;\nparse error:\n\n  syntax error\n\n>>>         4 5;\n              ^\n\noctave:20> M = [   3 4;\n>         4 5;\n> M = [   3 4;\n>         4 5;\n>         1 2 ];\n> clear all; close all; clc;\n> M = [   3 4;\n>         4 5;\n>         1 2 ];\n> M = [   3 4;\n>         4 5;\n>         1 2 ];\n> \n> M = [   3 4;\n>         4 5;\n>         1 2 ];\n>         1 2 ];\noctave:21> \noctave:21> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:22> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:23> \noctave:23> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:24> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:25> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:26> N = [ 4 5 ];\noctave:27> \noctave:27> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:27> \noctave:27> %{ dsfdf\noctave:27>     dont = 1;\noctave:28> %}\noctave:28> \noctave:28> %>>\noctave:28> a = 1;\noctave:29> h = zeros(1,3);\noctave:30> %<<\noctave:30> for i = 1:3\n>     h(i) = a + i;\n>     %{\n>         ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n> end; a\na =  1\noctave:31> \noctave:31> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:32> M = [   3 4;                                                                                           \n>         4 5;\n>         1 2 ];\noctave:33> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:34> \noctave:34> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:35> M = [   3 4;\n>         4 5;\n>         1 2 ];\noctave:36> M = [   3 4;\n>         [4 5];\n>         1 2 ];\noctave:37> M = [   3 4;\n>         [4 5];\n>         1 2 ];\noctave:38> N = [ 4 5 ];\noctave:39> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:39> %{ dsfdf\noctave:39>     dont = 1;\noctave:40> %}\noctave:40> M = [   3 4;\n>         [4 5];\n>         1 2 ];\noctave:41> M = [   3 4;\n>         [4 5];\n>         1 2 ];\noctave:42> M = [   3 4;\n>         [4 5];\n>         1 2 ];\noctave:43> \noctave:43> N = [ 4 5 ];\noctave:44> \noctave:44> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:44> \noctave:44> %{ dsfdf\noctave:44>     dont = 1;\noctave:45> %}\noctave:45> \noctave:45> %>>\noctave:45> a = 1;\noctave:46> h = zeros(1,3);\noctave:47> %<<\noctave:47> for i = 1:3\n>     h(i) = a + i;\n>     %{\n>         ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n> end; a\na =  1\noctave:48> \noctave:48> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:49> \noctave:49> M = [   3 4;\n>         [4 5];\n>         1 2 ];\noctave:50> N = [ 4 5 ];\noctave:51> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:51> M = [   3 4;\n>         [4 5];\n>         1 2 ];\noctave:52> for i = 1:3\n>     for j = 1:4\n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end; a\na =  1\noctave:53> \noctave:53> %{ dsfdf\noctave:53>     dont = 1;\noctave:54> %}\noctave:54> %{ dsfdf\noctave:54>     dont = 1;\noctave:55> %}\noctave:55> quit\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ matlab\nMATLAB is selecting SOFTWARE OPENGL rendering.\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ omatlab -nodesktop -nosplash                               \nbash: omatlab: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ N = [ 4 5 ];\nbash: N: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ M = [   3 4;\nbash: M: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$         [4 5];\nbash: [4: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$         1 2 ]*1e2;\nbash: 1: command not found\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ matlab -nodesktop -nosplash\nMATLAB is selecting SOFTWARE OPENGL rendering.\n\n                                             < M A T L A B (R) >\n                                   Copyright 1984-2020 The MathWorks, Inc.\n                                   R2020b (9.9.0.1467703) 64-bit (glnxa64)\n                                               August 26, 2020\n\n \nTo get started, type doc.\nFor product information, visit www.mathworks.com.\n \n>> N = [ 4 5 ];\n>> \n>> M = [   3 4;\n        [4 5];\n        1 2 ]*1e2;\n\n>> M\n\nM =\n\n   300   400\n   400   500\n   100   200\n\n>>     end\n     end\n     |\nError: Illegal use of reserved keyword \"end\".\n \n>> end; a\n end; a\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> end; a\n end; a\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> \n>> %{ dsfdf\n>>     dont = 1;\n>> %}\n>> %>>\n>> a = 1;\n>> h = zeros(1,3);\n>> %<<\n>> for i = 1:3\n    for j = 1:4\n        h(i) = a + i*j;\n        %{\n            ignores this comment block\n        %}\n        g = h(end); % doesn't snag on this either\n    end\nend; a\n\na =\n\n     1\n\n\n>> N = [ 4 5 ];\n>> \n>> M = [   3 4;\n        [4 5];\n        1 2 ]*1e2;\n\n>> N = [ 4 5 ];\n>> \n>> M = [ 3 4;\n      4 5;\n      1 2]*1e2;\n\n>> N = [ 4 5 ];\n>> \n>> M = [ 3 4;\n     [4 5];\n      1 2 ]*1e2;\n\n>> %{\n    block comments\n    M(2,2)\n%}\n\n>> %{ dsfdf\n>>     dont = 1;\n>> %}\n>> %>>\n>> a = 1;\n>> h = zeros(1,3);\n>> %<<\n>> for i = 1:3\n    for j = 1:4\n        h(i) = a + i*j;\n        %{\n            ignores this comment block\n        %}\n        g = h(end); % doesn't snag on this either\n    end\nend; a\n\na =\n\n     1\n\n\n>> end; a\n end; a\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> end; a\n end; a\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> end; a\n end; a\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> for i = 1:3\nfor j = 1:4\n        h(i) = a + i*j;\n        %{\n            ignores this comment block\n        %}\n        g = h(end); % doesn't snag on this either\nend\na =\n\n     1\n\n\n>> end; a\n end; a\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> end\n end\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> end\n end\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> end\n end\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> end\n end\n |\nError: Illegal use of reserved keyword \"end\".\n \n>> \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ octave\nGNU Octave, version 5.2.0\nCopyright (C) 2020 John W. Eaton and others.\nThis is free software; see the source code for copying conditions.\nThere is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE.  For details, type 'warranty'.\n\nOctave was configured for \"x86_64-pc-linux-gnu\".\n\nAdditional information about Octave is available at https://www.octave.org.\n\nPlease contribute if you find this software useful.\nFor more information, visit https://www.octave.org/get-involved.html\n\nRead https://www.octave.org/bugs.html to learn how to submit bug reports.\nFor information about changes from previous versions, type 'news'.\n\noctave:1> for j = 1:4                                                                                             \n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\nerror: 'a' undefined near line 2 column 16\noctave:1> for i = 1:3\n> for j = 1:4\n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for j = 1:4\n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> \n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\nerror: 'a' undefined near line 3 column 16\noctave:1> \noctave:1>         h(i) = a + i*j;\nerror: 'a' undefined near line 1 column 16\noctave:1>         %{\n>             ignores this comment block\n>         %}\noctave:1>         g = h(end); % doesn't snag on this either\nerror: invalid use of end\noctave:1> for i = 1:3\n> for j = 1:4\n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> \n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> \n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\nerror: 'a' undefined near line 3 column 16\noctave:1> \noctave:1>         h(i) = a + i*j;\nerror: 'a' undefined near line 1 column 16\noctave:1>         %{\n>             ignores this comment block\n>         %}\noctave:1>         g = h(end); % doesn't snag on this either\nerror: invalid use of end\noctave:1> for j = 1:4\n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\nerror: 'a' undefined near line 2 column 16\noctave:1> end; a\nparse error:\n\n  syntax error\n\n>>> end; a\n      ^\n\noctave:1> for j = 1:4\n>         h(i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\nerror: 'a' undefined near line 2 column 16\noctave:1> a = 1;\noctave:2> %<<\noctave:2> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> end; a\na =  1\noctave:3> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:4> end; a\nparse error:\n\n  syntax error\n\n>>> end; a\n      ^\n\noctave:4> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:5> end; a\nparse error:\n\n  syntax error\n\n>>> end; a\n      ^\n\noctave:5> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:6> end; a\nparse error:\n\n  syntax error\n\n>>> end; a\n      ^\n\noctave:6> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:7> end; a\nparse error:\n\n  syntax error\n\n>>> end; a\n      ^\n\noctave:7> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:8> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:9> end; a\nparse error:\n\n  syntax error\n\n>>> end; a\n      ^\n\noctave:9> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:10> end; a\nparse error:\n\n  syntax error\n\n>>> end; a\n      ^\n\noctave:10> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:11> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:11> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:12> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:13> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:13> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:14> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:14> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:15> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:15> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:16> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:17> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:17> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:18> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:19> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:19> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:20> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:21> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:22> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:23> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:23> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end                                                                                    \nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:24> for j = 1:4\n> for j = 1:4\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> end\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> end\noctave:25> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:26> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:27> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> end\noctave:28> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> end\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> end\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> end\noctave:29> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end; end\nparse error:\n\n  syntax error\n\n>>> end; end\n           ^\n\noctave:29> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end end\nparse error:\n\n  syntax error\n\n>>> end end\n          ^\n\noctave:29> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end; end\nparse error:\n\n  syntax error\n\n>>> end; end\n           ^\n\noctave:29> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end; end\noctave:30>     for j = 1:4                                                                        \n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end end\nparse error:\n\n  syntax error\n\n>>> end end\n          ^\n\noctave:30>     for j = 1:4                                                                        \n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end end\nparse error:\n\n  syntax error\n\n>>> end end\n          ^\n\noctave:30>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end end\nparse error:\n\n  syntax error\n\n>>> end end\n          ^\n\noctave:30>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end end\nparse error:\n\n  syntax error\n\n>>> end end\n          ^\n\noctave:30> end end\nparse error:\n\n  syntax error\n\n>>> end end\n      ^\n\noctave:30>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:31> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:31>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:32> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:32>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:33>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:34> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:34>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:35> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:35> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:35>     end\nparse error:\n\n  syntax error\n\n>>>     end\n          ^\n\noctave:35> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:35> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:35> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:35>     end\nparse error:\n\n  syntax error\n\n>>>     end\n          ^\n\noctave:35>     end\nparse error:\n\n  syntax error\n\n>>>     end\n          ^\n\noctave:35> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:35>     end\nparse error:\n\n  syntax error\n\n>>>     end\n          ^\n\noctave:35>     end\nparse error:\n\n  syntax error\n\n>>>     end\n          ^\n\noctave:35>         g = h(end); % doesn't snag on this either\noctave:36>     end\nparse error:\n\n  syntax error\n\n>>>     end\n          ^\n\noctave:36> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:36>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:37> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:37>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:38> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:38> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:38>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:39> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:39>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:40> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:40> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:40>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:41> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:41> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:41>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:42> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:42>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:43>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:44> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:44> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:44>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:45> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:46>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:47> for i = 1:3 for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:48> for i = 1:3 for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end end\noctave:49> for i = 1:3 for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end end\noctave:50> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:50>      [4 5] ];\nparse error:\n\n  syntax error\n\n>>>      [4 5] ];\n               ^\n\noctave:50>      [4 5];\noctave:51> N = [ 4 5 ];\noctave:52> \noctave:52> M = [ [3 4;\n>      [4 5];\n>       1 2 ]*1e2;\n> N = [ 4 5 ];\n> \n> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ] ]*1e2;\n> N = [ 4 5 ];\n> \n> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ] ]*1e2;\n> N = [ 4 5 ];                                                                                                  \n> \n> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ]\n>       ]*1e2;\n> N = [ 4 5 ];\n> \n> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ]\n> \noctave:52> N = [ 4 5 ];\noctave:53> \noctave:53> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ]\n>       ]*1e2;\n> N = [ 4 5 ];\n> \n> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ]\n> for i = 1:3\nparse error:\n\n  syntax error\n\n>>> for i = 1:3\n      ^\n\noctave:53>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\noctave:54> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:55> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:56> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:56> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:57>     end\nparse error:\n\n  syntax error\n\n>>>     end\n          ^\n\noctave:57>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:58> for i = 1:3 for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:59>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:60> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>             ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:61> for i = 1:3\n> for j = 1:4\n> h(j,i) = a + i*j;\n> %{\n>     ignores this comment block\n> %}\n> g = h(end); % doesn't snag on this either\n> end\n> for i = 1:3\n> for j = 1:4\n>     h(j,i) = a + i*j;\n>     %{\n>     ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n> for j = 1:4\n>     h(j,i) = a + i*j;\n>     %{\n>     ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n> for j = 1:4\n>     h(j,i) = a + i*j;\n>     %{\n>     ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n> for j = 1:4\n>     h(j,i) = a + i*j;\n>     %{\n>     ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>     h(j,i) = a + i*j;\n>     %{\n>     ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n>     end\n> end\n> \noctave:61> for i = 1:3\n>     for j = 1:4\n>     h(j,i) = a + i*j;\n>     %{\n>     ignores this comment block\n>     %}\n>     g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> \n> clear all; close all; clc;\n> \n> N = [ 4 5 ];\n> \n> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ]\n>       ]*1e2;\n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> \n> \n> %{ dsfdf\n>     dont = 1;\n> %}\n> \n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> for i = 1:3\nparse error:\n\n  syntax error\n\n>>> for i = 1:3\n      ^\n\noctave:61>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:62> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:63> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:63> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:64> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> N = [ 4 5 ];\n> \n> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ]\n>       ]*1e2;\n> \noctave:64> N = [ 4 5 ];\noctave:65> \noctave:65> M =  [ [3 4;\n>     [ [4 5];\n>       1 2 ]\n>       ]*1e2;\n> \noctave:65> N = [ 4 5 ];\noctave:66> \noctave:66> M =  [ 3 4;\n>     [ [4 5];\n>       1 2 ]\n>       ]*1e2;\noctave:67> N = [ 4 5 ];\noctave:68> \noctave:68> M =  [ 3 4;\n>       [4 5];\n>        1 2 ]*1e2;\noctave:69> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:69> %{ dsfdf\noctave:69>     dont = 1;\noctave:70> %}\noctave:70> %>>\noctave:70> a = 1;\noctave:71> h = zeros(1,3);\noctave:72> %<<\noctave:72> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:73> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:74> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> exit\n> \noctave:74> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> \noctave:74> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:75> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:76> N = [ 4 5 ];\noctave:77> \noctave:77> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:78> \noctave:78> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:78> \noctave:78> \noctave:78> %{ dsfdf\noctave:78>     dont = 1;\noctave:79> %}\noctave:79> \noctave:79> %>>\noctave:79> a = 1;\noctave:80> h = zeros(1,3);\noctave:81> %<<\noctave:81> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:82> \noctave:82> \noctave:82> \noctave:82> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:83> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:84> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:85> N = [ 4 5 ];\noctave:86> \noctave:86> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:87> N = [ 4 5 ];\noctave:88> \noctave:88> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:89> \noctave:89> %{[\noctave:89>     %]}%\noctave:89>     M(2,2)\nans =  500\noctave:90>     M(2,2)\nans =  500\noctave:91> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:91>     dont = 1;\noctave:92> N = [ 4 5 ];\noctave:93> \noctave:93> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:94> \noctave:94> \noctave:94> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:94> %{\n> [\n>     ]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [\n>     ]\n> exit\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [\n>     ]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [\n>     ]\n>     %}\n> [4,5\n> 3,5]\n> \noctave:94> N = [ 4 5 ];\noctave:95> \noctave:95> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:96> \noctave:96> \noctave:96> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:96> %{\n> [\n>     ]\n>     %}\noctave:96> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:97> N = [ 4 5 ];\noctave:98> \noctave:98> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:99> \noctave:99> \noctave:99> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:99> %{\n> [\n>     ]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [ 3,2\n>  3,4]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [ 3,2\n>  3,4]\n>     %}\n> [4,5\n> 3,5]\n> \noctave:99> N = [ 4 5 ];\noctave:100> \noctave:100> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:101> \noctave:101> \noctave:101> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:101> %{\n> [ 3,2\n>  3,4]\n>     %}\noctave:101> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:102> N = [ 4 5 ];\noctave:103> \noctave:103> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:104> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:105> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:106> N = [ 4 5 ];\noctave:107> \noctave:107> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:108> N = [ 4 5 ];\noctave:109> \noctave:109> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:110> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:111> N = [ 4 5 ];\noctave:112> \noctave:112> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:113> N = [ 4 5 ];\noctave:114> \noctave:114> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:115> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:116> N = [ 4 5 ];\noctave:117> \noctave:117> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:118> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:119> N = [ 4 5 ];\noctave:120> \noctave:120> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:121> N = [ 4 5 ];\noctave:122> \noctave:122> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:123> \noctave:123> \noctave:123> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:123> %{\n> [ 3,2\n>  3,4]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n>     [ 3,2\n>  3,4]\n> [ 3,2\n>  3,4]\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> end\n> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [ 3,2\n>  3,4]\n>     %}\n> [4,5\n> 3,5]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [ 3,2\n>  3,4]\n>     %}\n> [4,5\n> 3,5]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [ 3,2\n>  3,4]\n>     %}\n> \n> [4,5\n> 3,5]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> %{\n>     block comments\n>     M(2,2)\n> %}\n> %{\n> [ 3,2\n>  3,4]\n>     %}\n> \n> [4,5\n> 3,5]\n> \n> %{ dsfdf\n>     dont = 1;\n> %}\n> \n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> \n> \n> \n> \n> f = @(x) [  x\n>             x^2\n>             x/3]\n>                                                                                                 \noctave:123> N = [ 4 5 ];\noctave:124> \noctave:124> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:125> \noctave:125> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:125> %{\n> [ 3,2\n>  3,4]\n>     %}\noctave:125> \noctave:125> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:126> \noctave:126> %{ dsfdf\noctave:126>     dont = 1;\noctave:127> %}\noctave:127> \noctave:127> %>>\noctave:127> a = 1;\noctave:128> h = zeros(1,3);\noctave:129> %<<\noctave:129> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:130> \noctave:130> \noctave:130> \noctave:130> \noctave:130> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:131> N = [ 4 5 ];\noctave:132> \noctave:132> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:133> N = [ 4 5 ];\noctave:134> \noctave:134> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:135> \noctave:135> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:135> %{\n> [ 3,2\n>  3,4]\n>     %}\noctave:135> \noctave:135> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:136> N = [ 4 5 ];\noctave:137> \noctave:137> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:138> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:139> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:140> \noctave:140> \noctave:140> \noctave:140> \noctave:140> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:141> \noctave:141> \noctave:141> c = 4;\noctave:142> \noctave:142> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:143> N = [ 4 5 ];\noctave:144> \noctave:144> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:145> \noctave:145> %{\n>     block comments\n>     M(2,2)\n> %}\noctave:145> %{\n> [ 3,2\n>  3,4]\n>     %}\noctave:145> \noctave:145> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:146> \noctave:146> %{ dsfdf\noctave:146>     dont = 1;\noctave:147> %}\noctave:147> \noctave:147> %>>\noctave:147> a = 1;\noctave:148> h = zeros(1,3);\noctave:149> %<<\noctave:149> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:150> \noctave:150> [t,r\n> f ] = dumb(3)\nparse error:\n\n  invalid left hand side of assignment\n\n>>> f ] = dumb(3)\n        ^\n\noctave:150> [t,r, f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:151> [t,r,\n> f ] = dumb(3)\nparse error:\n\n  invalid left hand side of assignment\n\n>>> f ] = dumb(3)\n        ^\n\noctave:151> %{\n> block comments\n> M(2,2)\n> %}\noctave:151> %{\n> block comments\n> M(2,2)\n> %}\noctave:151> N = [ 4 5 ];\noctave:152> \noctave:152> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:153> \noctave:153> \noctave:153> %{\n> block comments\n> M(2,2)\n> %}\noctave:153> \noctave:153> %{\n> [ 3,2\n>  3,4]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n> block comments\n> M(2,2)\n> %}\n> \n> %{\n> [ 3,2\n>  3,4]\n> exit\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n> block comments\n> M(2,2)\n> %}\n> \n> %{\n> [ 3,2\n>  3,4]\n>     %}\n> %\n> [4,5\n> 3,5]\n> \noctave:153> N = [ 4 5 ];\noctave:154> \noctave:154> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:155> \noctave:155> \noctave:155> %{\n> block comments\n> M(2,2)\n> %}\noctave:155> \noctave:155> %{\n> [ 3,2\n>  3,4]\n>     %}\noctave:155> %\noctave:155> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:156> N = [ 4 5 ];\noctave:157> \noctave:157> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:158> \noctave:158> \noctave:158> %{\n> block comments\n> M(2,2)\n> %}\noctave:158> \noctave:158> %{\n> [ 3,2\n>  3,4]\n> M(2,2)\n> \noctave:158> M(2,2)\nans =  500\noctave:159> block comments\nerror: 'block' undefined near line 1 column 1\noctave:159> \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ octave\nGNU Octave, version 5.2.0\nCopyright (C) 2020 John W. Eaton and others.\nThis is free software; see the source code for copying conditions.\nThere is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE.  For details, type 'warranty'.\n\nOctave was configured for \"x86_64-pc-linux-gnu\".\n\nAdditional information about Octave is available at https://www.octave.org.\n\nPlease contribute if you find this software useful.\nFor more information, visit https://www.octave.org/get-involved.html\n\nRead https://www.octave.org/bugs.html to learn how to submit bug reports.\nFor information about changes from previous versions, type 'news'.\n\noctave:1> N = [ 4 5 ];\noctave:2> \noctave:2> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:3> \noctave:3> \noctave:3> %{\n> block comments\n> M(2,2)\n> %}\noctave:3> \noctave:3> %{\n> [3,2\n>  3,4]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n> block comments\n> M(2,2)\n> %}\n> \n> %{\n> [3,2\n>  3,4]\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \noctave:3> N = [ 4 5 ];\noctave:4> \noctave:4> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:5> N = [ 4 5 ];\noctave:6> \noctave:6> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:7> \noctave:7> \noctave:7> %{\n> block comments\n> M(2,2)\n> %}\noctave:7> \noctave:7> %{\n> [3,2\n>  3,4]\n>     %}\noctave:7> \noctave:7> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:8> N = [ 4 5 ];\noctave:9> \noctave:9> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:10> \noctave:10> \noctave:10> %{\n> block comments\n> M(2,2)\n> %}\noctave:10> \noctave:10> %{\n> [3,2\n>  3,4]\n>     %}\noctave:10> \noctave:10> [ 4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:11> %}\noctave:11> 3,5]\nparse error:\n\n  syntax error\n\n>>> 3,5]\n       ^\n\noctave:11> 3,5]\nparse error:\n\n  syntax error\n\n>>> 3,5]\n       ^\n\noctave:11> %{\n> [3,2\n>  3,4]\n>     %}\noctave:11>     %}\noctave:11> \noctave:11> [ 4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:12> \noctave:12> %{ dsfdf\noctave:12>     dont = 1;\noctave:13> %}\noctave:13> %{\n> [3,2\n>  3,4]\n>     %}\noctave:13> %}\noctave:13> %{\n> [3,2\n>  3,4]\n> %}\noctave:13>  3,4]\nparse error:\n\n  syntax error\n\n>>>  3,4]\n        ^\n\noctave:13> for i = 1:3\n> for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\n> end\nerror: 'a' undefined near line 3 column 18\noctave:13> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\nerror: 'a' undefined near line 3 column 18\noctave:13> \noctave:13> %>>\noctave:13> a = 1;\noctave:14> h = zeros(1,3);\noctave:15> %<<\noctave:15> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:16> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:17> for i = 1:3                                                                            \n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:18> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:19> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:20> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:21>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:22>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:23>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:24>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:25> %{ dsfdf\noctave:25> %{\n>     dont = 1;\n> %}\noctave:25> %}\noctave:25> %{ dsfdf\noctave:25> %{\n>     dont = 1;\n> %}\noctave:25> %}\noctave:25> %{ dsfdf\noctave:25> %{\n>     dont = 1;\n> %}\noctave:25> %}\noctave:25> %{ dsfdf\noctave:25>     %{\n>         dont = 1;\n> %}\noctave:25> %}\noctave:25> %{ dsfdf\noctave:25>     %{\n>         dont = 1;\n>     %}\noctave:25> %}\noctave:25>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>     end\n>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\n>     %{\n>         dont = 1;\n>     %}\n> \n> clear all; close all; clc;\n> \n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n> block comments\n> M(2,2)\n> %} \n> \n> %{\n> [3,2\n>  3,4]\n> %}\n> \n> \n> [ 4,5\n> 3,5]\n> \n> %{ dsfdf\n>     %{\n>         dont = 1;\n>     %}\n>     %{\n>         dont = 1;\n>     %}\n> %{ dsfdf\n>     %{\n>         dont = 1;\n>     %}\n> %}\n> %{ dsfdf\n>     %{\n>         dont = 1;\n> %}\n> %}\n> %{\n>         dont = 1;\n> %}\n> %{ dsfdf\n> %{\n>         dont = 1;\n> %}\n> %}\n>     %>>\n> a = 1;\n> h = zeros(1,3);\n>     %<<\n> \n> clear all; close all; clc;\n> \n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n> block comments\n> M(2,2)\n> %} \n> \n> %{\n> [3,2\n>  3,4]\n> %}\n> \n> \n> [ 4,5\n> 3,5]\n> \n> %{ dsfdf\n> %{\n>         dont = 1;\n> %}\n> %}\n> %<<\n> \n> clear all; close all; clc;\n> \n> N = [ 4 5 ];\n> \n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> \n> \n> %{\n> block comments\n> M(2,2)\n> %} \n> \n> %{\n> [3,2\n>  3,4]\n> %}\n> \n> \n> [ 4,5\n> 3,5]\n> \n> %{ dsfdf\n> %{\n>         dont = 1;\n> %}\n> %}\n> %>>\n> a = 1;\n> h = zeros(1,3);\n>     %<<\n> %<<\n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>     end\n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> %{\n>         dont = 1;\n> %}\n> %{ dsfdf\n> %{\n>         dont = 1;\n> %}\n> %}\n>     for i = 1:3\n>     for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>     end\n> %{ dsfdf\n> %{\n>         dont = 1;\n> %}\n> %}\n> %{ dsfdf\n> \n>         dont = 1;\n> \n> %}\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> %{\n> block comments\n> M(2,2)\n> %}\n> %{\n> [3,2\n>  3,4]\n> %}\n> %{\n> block comments\n> M(2,2)\n> %}\n> %}\n> %{\n> [3,2\n>  3,4]\n> %}\n> %{\n> block comments\n> M(2,2)\n> %}\n> %{\n> block comments\n> M(2,2)\n> %}\n> %{\n> [3,2\n>  3,4]\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %}\n> %{\n> [3,2\n>  3,4]\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %{ dsfdf\n>         dont = 1;\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> %>>\n> a = 1;\n> h = zeros(1,3);\n> %<<\n> for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\n>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\n> \n> %{\n>         dont = 1;\n> %}\n> %}\n> %{\n> %{\n>         dont = 1;\n> %}\n> %{\n>         dont = 1;\n> %}\n> {\n> %{\n>         dont = 1;\n> %}\n> %}\n> a = 1;\n>         end\n>     end\n>     for i = 1:3\n>         for j = 1:4\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n> end for\nparse error:\n\n  syntax error\n\n>>> end for\n          ^\n\noctave:25> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:25> %<<\noctave:25>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:26>     \noctave:26> [t,r,f ] = dumb(3)\nerror: 'dumb' undefined near line 1 column 12\noctave:26> \noctave:26> \noctave:26> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:27> \noctave:27> \noctave:27> c = 4;\noctave:28> \noctave:28> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:29> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:29> %<<\noctave:29>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:30>     \noctave:30> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:31> \noctave:31> \noctave:31> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:32> \noctave:32> \noctave:32> c = 4;\noctave:33> \noctave:33> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:34> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:34> %<<\noctave:34>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:35>     \noctave:35> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:36> \noctave:36> \noctave:36> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:37> \noctave:37> \noctave:37> c = 4;\noctave:38> \noctave:38> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:39> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:39> %<<\noctave:39>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:40>     \noctave:40> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:41> \noctave:41> \noctave:41> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:42> \noctave:42> \noctave:42> c = 4;\noctave:43> \noctave:43> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:44> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:44> %<<\noctave:44>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:45>     \noctave:45> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:46> \noctave:46> \noctave:46> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:47> \noctave:47> \noctave:47> c = 4;\noctave:48> \noctave:48> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:49> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:49> %<<\noctave:49>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:50>     \noctave:50> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:51> \noctave:51> \noctave:51> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:52> \noctave:52> \noctave:52> c = 4;\noctave:53> \noctave:53> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:54> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:54> %<<\noctave:54>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:55>     \noctave:55> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:56> \noctave:56> \noctave:56> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:57> \noctave:57> \noctave:57> c = 4;\noctave:58> \noctave:58> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:59> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:59> %<<\noctave:59>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:60>     \noctave:60> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:61> \noctave:61> \noctave:61> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:62> \noctave:62> \noctave:62> c = 4;\noctave:63> \noctave:63> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:64> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:64> %<<\noctave:64>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:65>     \noctave:65> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:66> \noctave:66> \noctave:66> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:67> \noctave:67> \noctave:67> c = 4;\noctave:68> \noctave:68> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:69>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:70>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\noctave:71> endend\nerror: 'endend' undefined near line 1 column 1\noctave:71> endend\nerror: 'endend' undefined near line 1 column 1\noctave:71> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:71> %}\noctave:71> %{\n>         dont = 1;\n> %}\noctave:71> %}\noctave:71> %{\n>         dont = 1;\n> %}\noctave:71> %{\n>         dont = 1;\n> %}\noctave:71> %}\noctave:71> %{{{{\noctave:71> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:71> %<<\noctave:71>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:72>     \noctave:72> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:73> \noctave:73> \noctave:73> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:74> \noctave:74> \noctave:74> c = 4;\noctave:75> \noctave:75> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:76> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:76> %<<\noctave:76>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:77>     \noctave:77> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:78> \noctave:78> \noctave:78> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:79> \noctave:79> \noctave:79> c = 4;\noctave:80> \noctave:80> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:81> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:81> %<<\noctave:81>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:82>     \noctave:82> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:83> \noctave:83> \noctave:83> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:84> \noctave:84> \noctave:84> c = 4;\noctave:85> \noctave:85> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:86> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:86> %<<\noctave:86>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:87>     \noctave:87> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:88> \noctave:88> \noctave:88> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:89> \noctave:89> \noctave:89> c = 4;\noctave:90> \noctave:90> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:91> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:91> %<<\noctave:91>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:92>     \noctave:92> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:93> \noctave:93> \noctave:93> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:94> \noctave:94> \noctave:94> c = 4;\noctave:95> \noctave:95> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:96> %{\n> [3,2\n>  3,4]\n> %}\noctave:96> %{\n> [3,2\n>  3,4]\n> %}\noctave:96> {{{{\n> {{{{\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %{\n> block comments\n> M(2,2)\n> %}\n> {{{{\n> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n      ^\n\noctave:96> %<<\noctave:96>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:97>     \noctave:97> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:98> \noctave:98> \noctave:98> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:99> \noctave:99> \noctave:99> c = 4;\noctave:100> \noctave:100> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:101>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:102> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:102> %<<\noctave:102>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:103>     \noctave:103> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:104> \noctave:104> \noctave:104> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:105> \noctave:105> \noctave:105> c = 4;\noctave:106> \noctave:106> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:107> {{{{\n> {{{{\n> {{{{\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> {{{{\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %{\n> %{\n> block comments\n> M(2,2)\n> %} \n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %}\n> %}\n> %{ %{ %}\n> block comments\n> M(2,2)\n> %}\n> %{ %{ %}\n> block comments\n> M(2,2)\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> block comments\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> {{{{\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %}\n> %}\n> %}\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %}\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %}\n> %{\n> [3,2\n>  3,4]\n> %}\n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %}\n> %}\n> %{\n> [3,2\n>  3,4]\n> %}\n> %{ %{   %}\n> block comments\n> M(2,2)\n> %}\n> %{\n> [3,2\n>  3,4]\n> %}\n> %}\n> %}\n> %}\n> } }  dsf }\n> } }  dsf } } ) ]\nparse error:\n\n  syntax error\n\n>>> } }  dsf } } ) ]\n                  ^\n\noctave:107> } }  dsf } } ) ]\nparse error:\n\n  syntax error\n\n>>> } }  dsf } } ) ]\n    ^\n\noctave:107> } }  dsf } } ) ]\nparse error:\n\n  syntax error\n\n>>> } }  dsf } } ) ]\n    ^\n\noctave:107> } }  dsf } } ) ]\nparse error:\n\n  syntax error\n\n>>> } }  dsf } } ) ]\n    ^\n\noctave:107> } }  dsf } } ) ]\nparse error:\n\n  syntax error\n\n>>> } }  dsf } } ) ]\n    ^\n\noctave:107> %{ %{   %}\noctave:107> block comments\nerror: 'block' undefined near line 2 column 1\noctave:107> M(2,2)\nans =  500\noctave:108> %}\noctave:108> %{ %{   %}\noctave:108> block comments\nerror: 'block' undefined near line 3 column 1\noctave:108> M(2,2)\nans =  500\noctave:109> %}\noctave:109> %{\n> [3,2\n>  3,4]\n> %}\noctave:109> %}\noctave:109> %} %} %{\noctave:109> %} %} %{\noctave:109> %{\n> [3,2\n>  3,4]\n> %}\noctave:109> %}\noctave:109> %{ %{   %}\noctave:109> block comments\nerror: 'block' undefined near line 17 column 1\noctave:109> M(2,2)\nans =  500\noctave:110> %} %} %{\noctave:110> %{\n> [3,2\n>  3,4]\n> %}\noctave:110> %{\n> [3,2\n>  3,4]\n> %}\noctave:110> %{\n> [3,2\n>  3,4]\n> %}\noctave:110> %{\n> [3,2\n>  3,4]\n> %}\noctave:110> %{\n> [3,2\n>  3,4]\n> %}\noctave:110> %{\n> [3,2\n>  3,4]\n> %}\noctave:110> %{\n> [3,2\n>  3,4]\n> %}\noctave:110> %{  sfd\noctave:110> [3,2\n>  3,4]\nans =\n\n   3   2\n   3   4\n\noctave:111> %}\noctave:111> %{ sfd\noctave:111> [3,2\n>  3,4]\nans =\n\n   3   2\n   3   4\n\noctave:112> %}\noctave:112> %{ \n> [3,2\n>  3,4]\n> %}\noctave:112>  %{ \n> [3,2\n>  3,4]\n> %}\noctave:112> %{\n> block comments\n> M(2,2)\n> %}\noctave:112> %{ 3\noctave:112> block comments\nerror: 'block' undefined near line 16 column 1\noctave:112> M(2,2)\nans =  500\noctave:113> %}\noctave:113> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:113> %<<\noctave:113>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:114>     \noctave:114> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:115> \noctave:115> \noctave:115> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:116> \noctave:116> \noctave:116> c = 4;\noctave:117> \noctave:117> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:118> %{{{{\noctave:118> %{{{{\noctave:118> %{  \n> [3,2\n>  3,4]\n> %}\noctave:118> %{  \n> [3,2\n>  3,4]\n> %}\noctave:118> %{{{{\noctave:118>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:119> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:120> for while function esdfk fff end for\nparse error:\n\n  syntax error\n\n>>> for while function esdfk fff end for\n            ^\n\noctave:120> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:120> %<<\noctave:120>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:121>     \noctave:121> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:122> \noctave:122> \noctave:122> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:123> \noctave:123> \noctave:123> c = 4;\noctave:124> \noctave:124> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:125> for while function esdfk fff end forfor \nparse error:\n\n  syntax error\n\n>>> for while function esdfk fff end forfor \n            ^\n\noctave:125> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:125> %<<\noctave:125>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:126>     \noctave:126> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:127> \noctave:127> \noctave:127> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:128> \noctave:128> \noctave:128> c = 4;\noctave:129> \noctave:129> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:130> for while function esdfk fff end forfor \nparse error:\n\n  syntax error\n\n>>> for while function esdfk fff end forfor \n            ^\n\noctave:130> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:130> %<<\noctave:130>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:131>     \noctave:131> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:132> \noctave:132> \noctave:132> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:133> \noctave:133> \noctave:133> c = 4;\noctave:134> \noctave:134> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:135> endend end end sf dds f end\nerror: 'endend' undefined near line 1 column 1\noctave:135> for while function esdfk fff end forfor \nparse error:\n\n  syntax error\n\n>>> for while function esdfk fff end forfor \n            ^\n\noctave:135> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:135> %<<\noctave:135>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:136>     \noctave:136> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:137> \noctave:137> \noctave:137> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:138> \noctave:138> \noctave:138> c = 4;\noctave:139> \noctave:139> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:140> for while function esdfk fff end forfor for\nparse error:\n\n  syntax error\n\n>>> for while function esdfk fff end forfor for\n            ^\n\noctave:140> for end for\nparse error:\n\n  syntax error\n\n>>> for end for\n          ^\n\noctave:140> %<<\noctave:140>     for i = 1:3\n>         for j = 1:4\n>             h(j,i) = a + i*j;\n>             %{\n>             ignores this comment block\n>             %}\n>             g = h(end); % doesn't snag on this either\n>         end\n>     end\noctave:141>     \noctave:141> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:142> \noctave:142> \noctave:142> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:143> \noctave:143> \noctave:143> c = 4;\noctave:144> \noctave:144> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:145> %{  \n> [3,2\n>  3,4]\n> %}\noctave:145> %{\n> block comments\n> M(2,2)\n> %}\noctave:145> %{  dsf \noctave:145> [3,2\n>  3,4]\nans =\n\n   3   2\n   3   4\n\noctave:146> %}\noctave:146> %{\n> block comments\n> M(2,2)\n> %}\noctave:146> %}\noctave:146> 3,5]\nparse error:\n\n  syntax error\n\n>>> 3,5]\n       ^\n\noctave:146> [ 4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:147>             x/3]\nparse error:\n\n  syntax error\n\n>>>             x/3]\n                   ^\n\noctave:147> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:148> for end for forend\nparse error:\n\n  syntax error\n\n>>> for end for forend\n          ^\n\noctave:148> \noctave:148> c = 4;\noctave:149> \noctave:149> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:150> %}\noctave:150> %{\n> block comments\n> M(2,2)\n> %}\noctave:150> %{%{%{\noctave:150> %{sdf%{%{\noctave:150> %{sdf%{%{%\noctave:150> %{\n> block comments\n> M(2,2)\n> %}\noctave:150> %{sdf%{%{%\noctave:150> for i = 1:3                                                  \n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:151> forfor for\nerror: 'forfor' undefined near line 1 column 1\noctave:151> forfor for for\nerror: 'forfor' undefined near line 1 column 1\noctave:151>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\noctave:152> for end true end\nparse error:\n\n  syntax error\n\n>>> for end true end\n          ^\n\noctave:152> for end true end\nparse error:\n\n  syntax error\n\n>>> for end true end\n          ^\n\noctave:152> %>>                                               \noctave:152> a = 1;\noctave:153> h = zeros(1,3);\noctave:154> %<<\noctave:154> %>>                                               \noctave:154> a = 1;\noctave:155> h = zeros(1,3);\noctave:156> %<<\noctave:156> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:157> for end true end\nparse error:\n\n  syntax error\n\n>>> for end true end\n          ^\n\noctave:157> [t,r,f ] = dumb(3)\nt =  3\nr =  9\nf =  1\noctave:158> %{ dsfdf\noctave:158>     dont = 1;\noctave:159> %}\noctave:159> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:160> \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ matlab -nodesktop -nosplash\nMATLAB is selecting SOFTWARE OPENGL rendering.\n\n                                                      < M A T L A B (R) >\n                                            Copyright 1984-2020 The MathWorks, Inc.\n                                            R2020b (9.9.0.1467703) 64-bit (glnxa64)\n                                                        August 26, 2020\n\n \nTo get started, type doc.\nFor product information, visit www.mathworks.com.\n \n>> for i = 1:3\n    for j = 1:4\n        h(j,i) = a + i*j;\n        %{\n        ignores this comment block\n        %}\n        g = h(end); % doesn't snag on this either\n    end\nend\nUnrecognized function or variable 'a'.\n \n>>     for j = 1:4\n        h(j,i) = a + i*j;\n        %{\n        ignores this comment block\n        %}\n        g = h(end); % doesn't snag on this either\n    end\nUnrecognized function or variable 'a'.\n \n\n>> for i = 1:3\n    for j = 1:4\n        h(j,i) = a + i*j;\n        %{\n        ignores this comment block\n        %}\n        g = h(end); % doesn't snag on this either\n    end\nend\nUnrecognized function or variable 'a'.\n \n\n>> [t,r,f ] = dumb(3)\nUnrecognized function or variable 'dumb'.\n \n>> f = @(x) [  x\n            x^2\n            x/3]\n\nf =\n\n  function_handle with value:\n\n    @(x)[x;x^2;x/3]\n\n\n>> c = 4;\n>> for i = 1:3\n    for j = 1:4\n        h(j,i) = a + i*j;\n        %{\n        ignores this comment block\n        %}\n        g = h(end); % doesn't snag on this either\n    end\nend\nUnrecognized function or variable 'a'.\n \n\n>> for end true end\n for end true end\n     |\nError: Illegal use of reserved keyword \"end\".\n \n>> [t,r,f ] = dumb(3)\nUnrecognized function or variable 'dumb'.\n \n>> \n>> %{\nblock comments\nM(2,2)\n%}\n\n>> %{sdf%{%{%\n>> %{\nblock comments\nM(2,2)\n%}\n\n>> %{ \nblock comments\nM(2,2)\n%}\n\n>> %{ \nblock comments\nM(2,2)\n%}\n\n>> \n>> %{\nblock comments\nM(2,2)\n%}\n\n>> %{sdf%{%{%\n>> \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ cd /home/liesk/Dropbox/Everything/MATLAB/MATLAB_projects\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ octave\nGNU Octave, version 5.2.0\nCopyright (C) 2020 John W. Eaton and others.\nThis is free software; see the source code for copying conditions.\nThere is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE.  For details, type 'warranty'.\n\nOctave was configured for \"x86_64-pc-linux-gnu\".\n\nAdditional information about Octave is available at https://www.octave.org.\n\nPlease contribute if you find this software useful.\nFor more information, visit https://www.octave.org/get-involved.html\n\nRead https://www.octave.org/bugs.html to learn how to submit bug reports.\nFor information about changes from previous versions, type 'news'.\n\noctave:1> %{ \n> block comments\n> M(2,2)\n> %}\noctave:1> %{                                                                                                                       \n> block comments\n> M(2,2)\n> %}\noctave:1> %{\n> %{\n> %}\n> block comments\n> M(2,2)\n> %}\noctave:1> %{\n> %{\n> %}\n> block comments\n> M(2,2)\n> %}\noctave:1> SendCode_matlab_demo\nparse error near line 44 of file /home/liesk/Dropbox/Everything/MATLAB/MATLAB_projects/SendCode_matlab_demo.m\n\n  syntax error\n\n>>> for end true end\n          ^\n\noctave:1> clc\noctave:2> \noctave:2> %{                                                                                                                       \n> %{            \n> %}    \n> block comments\n> M(2,2)    \n> %}\noctave:2> SendCode_matlab_demo\nans =     \n                                                                                                                                   \n   3   2        \n   3   4\n                \nans =       \n    \n   4   5                      \n   3   5        \n        \nerror: 'dumb' undefined near line 44 column 12\nerror: called from\n    SendCode_matlab_demo at line 44 column 10\noctave:2> SendCode_matlab_demo\nans =     \n                                                                                                                                   \n   3   2        \n   3   4\n                \nans =       \n    \n   4   5                      \n   3   5        \n        \nf =                                           \n                  \n@(x) [x; x ^ 2; x / 3]                       \n                              \noctave:3> SendCode_matlab_demo\nans =     \n                                                                                                                                   \n   3   2        \n   3   4\n                \nans =       \n    \n   4   5                      \n   3   5        \n        \nf =                                           \n                  \n@(x) [x; x ^ 2; x / 3]                       \n                              \noctave:4> %{                  \n> %{    \n> %}\n> %{                          \n> block comments                                                                                             \n> M(2,2)\n> %}          \n> %}\noctave:4> %{        \n> %{       \n> %}\n> %{         \n> block comments\n> M(2,2)\n> %}\n> %}\noctave:4> %{\n> %{\n> %}\n> %{\n> block comments\n> M(2,2)\n> %}\n> %}\noctave:4> %{\n> %{\n> %}\n> %{\n> block comments\n> M(2,2)\n> %}\n> %}\noctave:4> %{sdf%{%{%\noctave:4> %{\n> %{\n> %}\n> %{\n> block comments\n> M(2,2)\n> %}\n> %}\noctave:4> %{\n> %{\n> %}\n> %{\n> block comments\n> M(2,2)\n> %}\n> %}\noctave:4> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> %}\noctave:4> %{\n> block comment\n> % {\n> nested block comment\n> %}\noctave:4> #>>                                                                                                                                            \nA = rand(3,3);\nb = rand(3);\n#<<\noctave:5> \n\nM = [   3 4;\n        1 2];\noctave:5> %>>\noctave:5> a = 1;\noctave:6> h = zeros(1,3);\noctave:7> %<<\noctave:7> sdf %>>\nerror: 'sdf' undefined near line 2 column 1\noctave:7> a = 1;\noctave:8> h = zeros(1,3);\noctave:9> %<<\noctave:9> a = 1; %>>\noctave:10> h = zeros(1,3); %<<\noctave:11> clc\noctave:12> a = 1; %>>\noctave:13> h = zeros(1,3); %<<\noctave:14> a = 1; %>>\noctave:15> h = zeros(1,3); %<<\noctave:16> a = 1; %>>\noctave:17> h = zeros(1,3); %<<                                                                                    \noctave:18> a = 1; %>>\noctave:19> h = zeros(1,3); %<<\noctave:20> a = 1; %>>\noctave:21> h = zeros(1,3); %<<\noctave:22> %{\n> block comment\n> %{         \n> nested block comment\n> %}            \n> %{                     \n> another    \n> M(2,2)         \n> %}                                       \n> %}            \noctave:22> %{sdf%{%{%    \noctave:22> [ 3,2\n>  3,4]             \nans =                         \n              \n   3   2\n   3   4\n\noctave:23>     %}\noctave:23> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:24> %{ dsfdf\noctave:24>     dont = 1;\noctave:25> %}\noctave:25> %{ dsfdf\noctave:25>     dont = 1;\noctave:26> %}\noctave:26> %{ dsfdf\noctave:26>     dont = 1;\noctave:27> %}\noctave:27> %{ dsfdf\noctave:27>     dont = 1;\noctave:28> %}\noctave:28> %{sdf%{%{%\noctave:28> %{ dsfdf\noctave:28>     dont = 1;\noctave:29> %}\noctave:29> %{ dsfdf\noctave:29>     dont = 1;\noctave:30> %}\noctave:30> %{sdf%{%{%\noctave:30> %{ dsfdf\noctave:30>     dont = 1;\noctave:31> %}\noctave:31> %{sdf%{%{%\noctave:31> %{ dsfdf\noctave:31>  3,4]\nparse error:\n\n  syntax error\n\n>>>  3,4]\n        ^\n\noctave:31> [ 3,2\n>  3,4]\nans =\n\n   3   2\n   3   4\n\noctave:32>     %}\noctave:32> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:33> %{ dsfdf\noctave:33>     dont = 1;\noctave:34> %}\noctave:34> a = 1; %>>\noctave:35> h = zeros(1,3); %<<\noctave:36> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> %}\noctave:36> %{\n> nested block comment\n> %}\noctave:36> %{\n> another\n> M(2,2)\n> %}\noctave:36> M(2,2)\nans =  500\noctave:37> M(2,2)\nans =  500\noctave:38> M(2,2)\nans =  500\noctave:39> M(2,2)\nans =  500\noctave:40> [ 3,2\n>  3,4]\nans =\n\n   3   2\n   3   4\n\noctave:41> %{sdf%{%{%\noctave:41> [ 3,2\n>  3,4]\nans =\n\n   3   2\n   3   4\n\noctave:42>     %}\noctave:42> [4,5\n> 3,5]\nans =\n\n   4   5\n   3   5\n\noctave:43> %{ dsfdf\noctave:43>     dont = 1;\noctave:44> %}\noctave:44> a = 1; %>>\noctave:45> h = zeros(1,3); %<<\noctave:46> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:47> %[t,r,f ] = dumb(3)\noctave:47> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:48> c = 4;\noctave:49> f = @(x) [  x\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> c = 4;\n> function [a,b,c] = dumb(x)\nparse error:\n\n  anonymous function bodies must be single expressions\n\n>>> function [a,b,c] = dumb(x)\n           ^\n\noctave:49>     a = x;\nerror: 'x' undefined near line 1 column 9\noctave:49>     b = x^2;\nerror: 'x' undefined near line 1 column 9\noctave:49>     c = x/3;\nerror: 'x' undefined near line 1 column 9\noctave:49> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:49> \noctave:49> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:50> c = 4;\noctave:51> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\noctave:52> end\nparse error:\n\n  syntax error\n\n>>> end\n      ^\n\noctave:52> \noctave:52>             x^2\nerror: 'x' undefined near line 1 column 13\noctave:52>             x^2\nerror: 'x' undefined near line 1 column 13\noctave:52> \noctave:52>             x^2\nerror: 'x' undefined near line 1 column 13\noctave:52> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:53> \noctave:53>             x^2\nerror: 'x' undefined near line 1 column 13\noctave:53> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:54>             x^2\nerror: 'x' undefined near line 1 column 13\noctave:54> \noctave:54>             x^2\nerror: 'x' undefined near line 1 column 13\noctave:54> f = @(x) [  x\n> f = @(x) [  x\n> f = @(x) [  x\n> f = @(x) [  x\n> f = @(x) [  x\n> f = @(x) [  x\n> f = @(x) [  x\n> f = @(x) [  x\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> %{ dsfdf\n> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> %}\n> f = @(x) [  x\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n> f = @(x) [  x\n> f = @(x) [  x\n>             x^2\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> [ 3,2\n>  3,4]\n> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> %}\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> [ 3,2                                                                                                           \n>  3,4]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> end\nparse error:\n\n  anonymous function bodies must be single expressions\n\n>>> end\n      ^\n\noctave:54> for i = 1:3\n> for i = 1:3\n> for i = 1:3\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> for i = 1:3\n>     for j = 1:4\n> for i = 1:3\n> for i = 1:3\n> for i = 1:3                                                                                                     \n> for i = 1:3\n> for i = 1:3\n> for i = 1:3\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n>         %{\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> end\n> end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> clc\n> clc\n> clear\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> [ 3,2\n>  3,4]\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> end\n> end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> f = @(x) [  x                                                                                                   \n>             x^2\n>             x/3]\n> f = @(x) [  x                                                                                                   \n>             x^2\n>             x/3]\n> f = @(x) [  x\n>             x^2\n>             x/3]\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>         %{\n>         %{\n>         %{\n>         %{\n>         ignores this comment block\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> %}\n>         %{\n>     %{\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> end \n> \n>     %{\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> end \n> \n>     %{\n> clc                                                                                                             \n> clear                                                                                                           \n> reset                                                                                                           \n>                 level += len(re.find(r\"^\\s*(?:{})\".format(up),view.substr(line)))                               \n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> end \n> \n>     %{\n> sdfa\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> end \n> \n>     %{\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         \n>     end\n> end \n> \n>     %{\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> end \n> \n>     %{\n> %{ dsfdf\n>     dont = 1;\n> %}\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n>         %{\n>         ignores this comment block\n>         %}\n> for i = 1:3                                                                                                     \n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         \n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> [ 3,2\n>  3,4]\n> a = 1; %>>\n> h = zeros(1,3); %<<\n> a = 1; %>>                                                                                                      \n> h = zeros(1,3); %<<\n> %{ dsfdf\n>     dont = 1;\n> %}\n> %{ dsfdf\n>     dont = 1;\n> %}\n>     dont = 1;                                                                                                   \n> M =  [ 3 4;                                                                                                     \n>       [4 5];\n>       1 2 ]*1e2;\n> %{                                                                                                              \n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> %}\n> %{sdf%{%{%\n> [ 3,2\n>  3,4]\n>     %}\n> N = [ 4 5 ];\n> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\n> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another\n> M(2,2)\n> %}\n> %}\n> %{sdf%{%{%\n> [ 3,2\n>  3,4]\n>     %}\n> [4,5\n> 3,5]\n> %{ dsfdf\n>     dont = 1;\n> %}\n> a = 1; %>>\n> h = zeros(1,3); %<<\n> for i = 1:3                                                                                                     \n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n    end\n>     end\n> end\n> %[t,r,f ] = dumb(3)\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\n> %[t,r,f ] = dumb(3)\n> f = @(x) [  x\n>             x^2\n>             x/3]\n> c = 4;\n> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\n> function [a,b,c] = dumb(x)\n>     a = x;\n>     b = x^2;\n>     c = x/3;\n> end\n> \nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/Python$ cd /home/liesk/Dropbox/Everything/MATLAB/MATLAB_projects\nliesk@liesk-ThinkPad-E590:~/Dropbox/Everything/MATLAB/MATLAB_projects$ octave\nGNU Octave, version 5.2.0\nCopyright (C) 2020 John W. Eaton and others.\nThis is free software; see the source code for copying conditions.\nThere is ABSOLUTELY NO WARRANTY; not even for MERCHANTABILITY or\nFITNESS FOR A PARTICULAR PURPOSE.  For details, type 'warranty'.\n\nOctave was configured for \"x86_64-pc-linux-gnu\".\n\nAdditional information about Octave is available at https://www.octave.org.\n\nPlease contribute if you find this software useful.\nFor more information, visit https://www.octave.org/get-involved.html\n\nRead https://www.octave.org/bugs.html to learn how to submit bug reports.\nFor information about changes from previous versions, type 'news'.\n\noctave:1> N = [ 4 5 ];\noctave:2> M =  [ 3 4;\n>       [4 5];\n>       1 2 ]*1e2;\noctave:3> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another one\n> M(2,2)\n> %}\n> %}\noctave:3> %{ not a comment block according to matlab\noctave:3>     well = 1;\noctave:4> %}\noctave:4> a = 1; %>>\noctave:5> h = zeros(1,3); %<<\noctave:6> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:7> for i = 1:3\n>     for j = 1:4\n>         h(j,i) = a + i*j;\n>         %{\n>         ignores this comment block\n>         %}\n>         %g = h(end); % doesn't snag on this either\n>     end\n> end\noctave:8> f = @(x) [  x\n>             x^2\n>             x/3]\nf =\n\n@(x) [x; x ^ 2; x / 3]\n\noctave:9> %}                                                                                                      \noctave:9> %}\noctave:9> %{\n> block comment\n> %{\n> nested block comment\n> %}\n> %{\n> another one\n> M(2,2)\n> %}\n> %}\noctave:9> ",
+			"settings":
+			{
+				"buffer_size": 125876,
+				"line_ending": "Unix",
+				"name": "Terminus",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"view res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"rel",
+				"Automatic Package Reloader: Reload Current Package"
+			],
+			[
+				"KEYB",
+				"Preferences: Key Bindings"
+			],
+			[
+				"gutter",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"reload",
+				"Automatic Package Reloader: Reload Current Package"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"",
+				"Automatic Package Reloader: Reload Current Package"
+			],
+			[
+				"gutter compa",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"clone",
+				"Origami: Clone File to Pane on the Right"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"gitgutter ",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"gitgutter compa",
+				"GitGutter: Compare Against Branch"
+			],
+			[
+				"auto",
+				"Automatic Package Reloader: Toggle Reload on Save"
+			],
+			[
+				"re",
+				"Automatic Package Reloader: Reload Current Package"
+			],
+			[
+				"gitgut",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings"
+			],
+			[
+				"key",
+				"Preferences: Key Binding - User"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"gitgu",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"command",
+				"Preferences: Commands"
+			],
+			[
+				"goto",
+				"GitGutter: Goto Next Change"
+			],
+			[
+				"gitgutt chang",
+				"GitGutter: Goto Next Change"
+			],
+			[
+				"relao",
+				"Automatic Package Reloader: Toggle Reload on Save"
+			],
+			[
+				"git com",
+				"GitGutter: Compare Against Commit"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"gitgutt",
+				"GitGutter: Show Line Annotation"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"compa",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"diable",
+				"Package Control: Disable Package"
+			],
+			[
+				"di",
+				"Package Control: Disable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"vew",
+				"View Package File"
+			],
+			[
+				"reloa",
+				"Automatic Package Reloader: Reload Current Package"
+			],
+			[
+				"rela",
+				"Automatic Package Reloader: Reload Current Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list packag",
+				"Package Control: List Packages"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"set wind",
+				"SetWindowTitle: Settings"
+			],
+			[
+				"insal",
+				"Package Control: Install Package"
+			],
+			[
+				"reset",
+				"Terminus: Reset"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"mouse",
+				"Preferences: Mouse Bindings (Platform)"
+			],
+			[
+				".m",
+				"Terminus: Save + Run current .m file in open Matlab/Octave command line"
+			],
+			[
+				"subrt",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"seting",
+				"Preferences: Settings"
+			],
+			[
+				"terminus",
+				"Terminus: Reset"
+			],
+			[
+				"clear term",
+				"Terminus: Open current .m file in Matlab editor"
+			],
+			[
+				"clear termin",
+				"Terminus: Open current .m file in Matlab editor"
+			],
+			[
+				"view mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"minim",
+				"View: Toggle Minimap"
+			],
+			[
+				"rese",
+				"Terminus: Reset"
+			],
+			[
+				"view",
+				"View Package File"
+			],
+			[
+				"remove ",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminus ",
+				"Terminus: Reset"
+			],
+			[
+				"run ",
+				"Run .m file in Matlab/Octave inside Terminus"
+			],
+			[
+				"run",
+				"Run .py file in Terminus"
+			],
+			[
+				"creat",
+				"Origami: Create Pane Above"
+			],
+			[
+				"run .",
+				"Run .m file in Matlab/Octave inside Terminus"
+			],
+			[
+				"close",
+				"Terminus: Close All"
+			],
+			[
+				"run.",
+				"Run .py file in Terminus"
+			],
+			[
+				"focus",
+				"Terminus: Focus instance"
+			],
+			[
+				"rer",
+				"Terminus: Re-Run last line"
+			],
+			[
+				"reru",
+				"Terminus: Re-Run last line"
+			],
+			[
+				"r",
+				"Terminus Re-Run"
+			],
+			[
+				"vie",
+				"View Package File"
+			],
+			[
+				"rerun",
+				"Terminus Re-Run"
+			],
+			[
+				"over",
+				"OverrideAudit: Create Override"
+			],
+			[
+				"terminus co",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"runi",
+				"Run .m file in Matlab/Octave inside Terminus"
+			],
+			[
+				"run .m",
+				"Run .m file in Matlab/Octave inside Terminus"
+			],
+			[
+				"run.m",
+				"Run .m file in Matlab/Octave inside Terminus"
+			],
+			[
+				"com",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"viw",
+				"View Package File"
+			],
+			[
+				"comm",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"open to",
+				"Terminus: Open to Below"
+			],
+			[
+				"ru",
+				"Run .m file in Terminus"
+			],
+			[
+				"vi",
+				"View Package File"
+			],
+			[
+				"send",
+				"Send Filename To Terminus"
+			],
+			[
+				"copy",
+				"File: Copy Filename"
+			],
+			[
+				"cop",
+				"File: Copy Filename"
+			],
+			[
+				"packageres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"terminus comm",
+				"Preferences: Terminus Command Palette"
+			],
+			[
+				"user key",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"terminus: clo",
+				"Terminus: Close All"
+			],
+			[
+				"ren",
+				"Terminus: Rename Title"
+			],
+			[
+				"terminu",
+				"Terminus: Open Default Shell in Tab (View)"
+			],
+			[
+				"build sys",
+				"Set Syntax: Sublime Text Build System (JSON)"
+			],
+			[
+				"v",
+				"View Package File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"terminus settin",
+				"Preferences: Terminus Settings"
+			],
+			[
+				"view pak",
+				"View Package File"
+			],
+			[
+				"open",
+				"PackageDev: Open Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"file",
+				"File: Reveal in Sidebar"
+			],
+			[
+				"view fi",
+				"File: New View into File"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings"
+			],
+			[
+				"termi",
+				"Terminus: Close All"
+			],
+			[
+				"theme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"key bi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"view ",
+				"View Package File"
+			],
+			[
+				"pa",
+				"Package Control: List Packages"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"packagero",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"snippet",
+				"Snippet: ^"
+			],
+			[
+				"package fil",
+				"View Package File"
+			],
+			[
+				"list shel",
+				"Terminus: List Shells"
+			],
+			[
+				"pulll",
+				"Origami: Pull File from Pane Below"
+			],
+			[
+				"pull",
+				"Origami: Pull File from Pane on the Left"
+			],
+			[
+				"pul",
+				"Origami: Pull File from Pane on the Left"
+			],
+			[
+				"origam",
+				"Origami: Pull File from Pane on the Left"
+			],
+			[
+				"them",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"sele",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"termin",
+				"Terminus: Reset"
+			],
+			[
+				"maxim",
+				"Terminus: Maximize to Tab"
+			],
+			[
+				"select",
+				"Terminus Utilities: Select Theme"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 177.0,
+		"history":
+		[
+			"print(view.line(view.text_point(view.rowcol(s.begin())[0], 0)))",
+			"print(view.line(view.text_point(row, 0)))",
+			"print(view.line(self.view.text_point(row, 0)))",
+			"print(self.view.line(self.view.text_point(row, 0)))",
+			"print(self.view.line(self.view.text_point(row, 0))",
+			"reset",
+			"clear",
+			"re.findall(r\"(?:{})\".format(['abc']),\"asdfabcbdfscsdf\")",
+			"re.findall(r\"(?:{})\".format('abc'),\"asdfabcbdfscsdf\")",
+			"re.findall(r\"(?:{})\".format('abc'),\"asdfbdfscsdf\")",
+			"print(re.findall(r\"(abc)\",\"abcdsfdabcdfkabc\"))",
+			"print(findall(r\"[abc]\",\"abcdsfdabcdfkabc\"))",
+			"print(re.findall(r\"[(abc)]\",\"abcdsfdabcdfkabc\"))",
+			"pip install numpy",
+			"from numpy import sign",
+			"sign(-4)",
+			"print(re.findall(r\"(abc)\",\"abcdsfdabcdfkabc\"))",
+			"print(re.findall(r\"[(abc)]\",\"abcdsfdabcdfkabc\"))",
+			"print(re.findall(r\"[abc]\",\"abcdsfdabcdfkabc\"))",
+			"print(re.find_all(r\"[abc]\",\"abcdsfdabcdfkabc\"))",
+			"print(find_all(r\"[abc]\",\"abcdsfdabcdfkabc\"))",
+			"print(findall(r\"[abc]\",\"abcdsfdabcdfkabc\"))",
+			"import re",
+			"re.findall(r\"(?<=.)(?:{})(?=.)\".format(\"|\".join([\"a\",\"b\"])),\"^\"+\"acbdacdasdfasdfasdfasdfsdafffffffffffffdsdfdsfadsfdsafdsafdsafdsfdfddfsdfhdsalkfjhdaslfhafladsfhasfhjbdakfbjbfdkabj;kfbadk;kjabadk;zdvkba;dka\"+\"$\")",
+			"re.findall(r\"(?<=.)(?:{})(?=.)\".format(\"|\".join([\"a\",\"b\"])),\"^\"+\"acbdacdasdfasdfasdfasdfsdafffffffffffffdsdfdsfadsfdsafdsafdsafdsfdfddfsdfhdsalkfjhdaslfhafladsfhasfhja\"+\"$\")",
+			"re.findall(r\"(?<=.)(?:{})(?=.)\".format(\"|\".join([\"a\",\"b\"])),\"^\"+\"acbdacda\"+\"$\")",
+			"re.findall(r\"(?<=.)(?:{})(?=.|$)\".format(\"|\".join([\"a\",\"b\"])),\"^\"+\"acbdacda\")",
+			"re.findall(r\"(?<=.)(?:{})(?=.|$)\".format(\"|\".join(\"a\",\"b\")),\"^\"+\"acbdacda\")",
+			"re.findall(r\"(?<=.)a(?=.|$)\",\"^\"+\"acbdacda\")",
+			"re.findall(r\"(?<=.)a(?=.|$)\",\"acbdacda\")",
+			"re.findall(r\"(?<=.|\\b)a(?=.|$)\",\"acbdacda\")",
+			"re.findall(r\"(?<=.)a(?=.|$)\",\"acbdacda\")",
+			"re.findall(r\"(?<=^|.)a(?=.|$)\",\"acbdacda\")",
+			"re.findall(r\"(?<=.)a(?=.|$)\",\"acbdacda\")",
+			"re.findall(r\"(?<=^|.)a(?=.|$)\",\"acbdacda\")",
+			"re.findall(r\"(?<=.)a(?=.|$)\",\"^acbdacda\")",
+			"re.findall(r\"(?<=.)a(?=.)\",\"^acbdacda$\")",
+			"re.findall(r\"(?<=.)a(?=.)\",\"acbdacda\")",
+			"re.findall(r\".a.\",\"acbdacda\")",
+			"re.findall(r\"(?<=.)a(?=.)\",\"acbdacda\")",
+			"re.findall(r\"(?<=.*)a(?=.*)\",\"acbdacda\")",
+			"re.find_all(r\"(?<=.*)a(?=.*)\",\"acbdacda\")",
+			"re.search(r\"^(xb).*\",\"xb\\nhk\\nxb\").group(2)",
+			"re.search(r\"^(xb).*\",\"xb\\nhk\\nxc\").group(2)",
+			"re.search(r\"^(xb).*\",\"xb\\nhk\\nxc\").group(1)",
+			"re.search(r\"^(xb).*\",\"xb\\nhk\\nxc\").group(0)",
+			"re.search(r\"^(x(b|c)).*\",\"xb\\nhk\\nxc\").group(1)",
+			"re.search(r\"^(x(b|c)).*\",\"xb\\nhk\\nxc\").group(0)",
+			"re.search(r\"^(x(b|c)).*\",\"xb\\nhk\\nxc\").group(2)",
+			"re.search(r\"^(x(b|c)).*\",\"xb\\nhk\\nxc\").group(0)",
+			"re.search(r\"^(x(b|c)).*\",\"xb\\nhk\\nxc\").group(1)",
+			"re.match(r\"^(x(b|c)).*\",\"xb\\nhk\\nxc\").group(1)",
+			"re.match(r\"^(x(b|c)).*\",\"xb\\nhk\\nxc\").group(0)",
+			"re.match(r\"^(x(b|c)).*\",\"xb\\nhk\\nxc\").group(1)",
+			"re.match(r\"^x(b|c).*\",\"xb\\nhk\\nxc\").group(1)",
+			"re.match(r\"^x(b|c).*\",\"xb\\nhk\\nxc\")",
+			"import re",
+			"re.match(r\"^x(b|c).*\",\"xb\\nhk\\nxc\")",
+			"run_command(extract_scope())",
+			"print(window.extract_variables())",
+			"print(r\"\\s\")",
+			"matlab",
+			"clear",
+			"view.run_command(\"send_file_name_to_terminus\")",
+			"clc",
+			"clear"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter"
+	],
+	"file_history":
+	[
+		"/home/liesk/.config/sublime-text-3/Packages/User/MakeTexRootLatextools.py",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/__init__.py",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/get_extra.py",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/BruteFindMethods.py",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/code_sender/__init__.py",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/getter.py",
+		"/home/liesk/Dropbox/Everything/2_12.py",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Julia - Source File.sublime-build",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/usr/share/applications/sublime_text.desktop",
+		"/home/liesk/Dropbox/Sublime/useful_keybindings.txt",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/Octave - Interactive.sublime-build",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/Matlab - Terminus.sublime-build",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/PassCode.py",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/TerminusOpenMatlabCommandLine.py",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/TerminsFocusOrOpen.py",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/SendToTerminus.py",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/send_code.build",
+		"/home/liesk/.config/sublime-text-3/Packages/User/set_window_title.sublime-settings",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/install_xdotool.py",
+		"/home/liesk/.config/sublime-text-3/Packages/SendCode/exec.py",
+		"/tmp/.fr-dDrRj2/set_window_title.sublime-commands",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/RMS1/PRO1---RMS1/Nastroje/PD.m",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Origami.sublime-settings",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Default (Linux).sublime-mousemap",
+		"/tmp/.fr-YvKGZ5/PP_Projekt1/PPNosnik.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/iterace_profilu.txt",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Uloha robota/Inversni.m",
+		"/home/liesk/Downloads/PP_Projekt1_Zivotnost.m",
+		"/home/liesk/Downloads/PP_Projekt1_PPNosnikSyms.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/2_inverzni_kinematika/parametry_kruznice.m",
+		"/tmp/.fr-G26HDQ/7995v3B/7995v3x.txt",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/3_inverzni_dynamika/Rotace_2D/Sphi.m",
+		"/tmp/.fr-g4GcW3/PP_Projekt1/Zivotnost.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/3_inverzni_dynamika/Nastroje/PD.m",
+		"/tmp/.fr-KOnWi6/PP_Projekt1/PPPorovnaniSil.m",
+		"/tmp/.fr-DR1B84/PP_Projekt1/PPNosnik.m",
+		"/home/liesk/Dropbox/Everything/ram_postele.py",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/testingg.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MEL/u3_skorohotove.txt",
+		"/tmp/.fr-dzL2WS/PP_Projekt1/DynamikaProPP.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MEL/u1_skoro_hotove.txt",
+		"/home/liesk/Downloads/circuit-20201104-2041.circuitjs.txt",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Symbolika.m",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/TerminusOpenDirectionPompted.py",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/Inverzni_kinematika.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/2_inverzni_kinematika/Jacobi_Jz.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/2_inverzni_kinematika/Jacobi_Jq.m",
+		"/home/liesk/.config/sublime-text-3/Packages/Matlab/Matlab.sublime-syntax",
+		"/home/liesk/.config/sublime-text-3/Packages/MatlabFilenameAutoComplete/MatlabAutoComplete.py",
+		"/home/liesk/Downloads/pevnostni_vypocty.py",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Python - Interactive.sublime-build",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/2_inverzni_kinematika/Kresic.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Analytika.m",
+		"/home/liesk/Downloads/Test.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Terka/Rotace_2D/Omh.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Terka/Rotace_2D/Omhh.m",
+		"/tmp/.fr-h0IJ7s/Terka/zrychleni.m",
+		"/tmp/.fr-VB2E7s/Terka/zrychleni.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/tohle_neni_zip.txt",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/tohle_neni_zip2.txt",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Terka/zrychleni.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Terka/Rotace_2D/Sphi.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/3_inverzni_dynamika/Rotace_2D/Omh.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/3_inverzni_dynamika/Rotace_2D/Omhh.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/zrychleni.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/3_inverzni_dynamika/Nastroje/CharTrubky.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/Inverzni_dynamika_DUP.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/3_inverzni_dynamika/parametry_dynamika.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/CharTrubky.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/3_inverzni_dynamika/parametry_synteza.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Trajektorie/QQ_kruznice",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Trajektorie/Z_kruznice.mat",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Trajektorie/Z_kruznice",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MKP1/PRO1---MKP1/Rotation_matrices/hat.m",
+		"/usr/share/applications/abaqus.desktop",
+		"/home/liesk/abaqus/6.14-5/SMA/site/abaqus_v6_orig.env",
+		"/home/liesk/abaqus/6.14-5/SMA/site/abaqus_v6.env",
+		"/home/liesk/Dropbox/Everything/Life_goals",
+		"/home/liesk/Downloads/Matlab workshop tasks.txt",
+		"/home/liesk/Dropbox/Everything/MATLAB/MATLAB projects/extract_from_string.m",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Matlab - Terminus.sublime-build",
+		"/home/liesk/Dropbox/Everything/Python/rad_print.py",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/terminus/core.py",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/main.py",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminus/terminus/TerminusReRun.py",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Run_py_file_in_Terminus.py",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Run_m_file_in_Terminus.py",
+		"/tmp/.fr-eh7xcX/main.py",
+		"/home/liesk/.config/sublime-text-3/Packages/User/TerminusReRun.py",
+		"/tmp/.fr-9h6b2d/main.py",
+		"/tmp/.fr-4tii6h/terminus/core.py",
+		"/tmp/.fr-vhSfUV/tools/reloader.py",
+		"/tmp/.fr-gAsfUU/main.py",
+		"/tmp/.fr-0YY6Qt/terminus/core.py",
+		"/tmp/.fr-x7jXNx/main.py",
+		"/tmp/.fr-nLTT0t/dependencies.json",
+		"/tmp/.fr-fmrqhy/main.py",
+		"/home/liesk/.config/sublime-text-3/Packages/Terminal/Terminal.py",
+		"/tmp/.fr-s2wv4u/main.py",
+		"/tmp/.fr-rPi8Vv/main.py",
+		"/tmp/.fr-MT5E8u/main.py",
+		"/tmp/.fr-nijNzu/main.py",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/Share/parametry_synteza.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/3_inverzni_dynamika/parametry_synteza.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/RMS1/PRO1---RMS1/vektorjqz.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/RMS1/PRO1---RMS1Jacobi_Jz.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/RMS1/PRO1---RMS1/Jacobi_Jq.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---RMS1/Jacobi_Jq.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/1_synteza_dopredna_kinematika/Jacobi_Jq.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/PRO1---MME/1_synteza_dopredna_kinematika/Jacobi_Jz.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/PRO1/MME/ToDo.txt",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Python3 - Shell.sublime-build",
+		"/home/liesk/.config/sublime-text-3/Packages/Python/Python.sublime-build",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Matlab_copy_run.py",
+		"/home/liesk/.config/sublime-text-3/Packages/User/File_name_to_terminus.py",
+		"/home/liesk/.config/sublime-text-3/Packages/User/sublime_sleep.py",
+		"/home/liesk/Dropbox/Everything/Python/while_else.py",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Octave - Interactive.sublime-build",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Analyticke_reseni_p4/Transformation_matrices/Tt_z.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Analyticke_reseni_p4/Inverse_analytic.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Analyticke_reseni_p4/Transformation_matrices/Tt_x.m",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Analyticke_reseni_p4/he",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Analyticke_reseni_p4/r1.m",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Octave.sublime-build",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Python3.sublime-build",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Matlab_Terminus_TAB.sublime-build",
+		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MAME/cvika/cv3.m"
+	],
+	"find":
+	{
+		"height": 46.0
+	},
+	"find_in_files":
+	{
+		"height": 126.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"end",
+			"block",
+			"string",
+			"row",
+			"op_brkts",
+			"op",
+			"opening",
+			"closing",
+			"brkts",
+			"brackets",
+			"opening_brackets",
+			"2",
+			"1",
+			"end",
+			"start",
+			"reversible_structure_matching",
+			"reversible_key_matching",
+			",",
+			")\n",
+			"closing_brackets",
+			"opening_brackets",
+			"reversible_matching",
+			"opening_brackets",
+			"up",
+			"keys",
+			"nested_key_skip",
+			"row",
+			"string",
+			"thiscmd",
+			"rest",
+			"first",
+			"expand",
+			"block_start_pattern",
+			"backward_bracket_expand",
+			"        else:\n            s = self.forward_expand(s, pattern=r\"[+\\-*/](?=\\s*$)\")\n",
+			"\n            s = self.forward_expand(s, pattern=r",
+			"<",
+			">",
+			"%",
+			"julia",
+			"julia\njulia",
+			"initialize",
+			"julia",
+			"syntax",
+			"extract",
+			"ext",
+			"$file",
+			"extract_variables",
+			"file_name",
+			"fname",
+			"view.file_name",
+			"view.file_name()\nview.file_name",
+			"fname",
+			"file_name",
+			"basename",
+			"SendCodeBuild",
+			"send_code_build",
+			"print",
+			"print\nprint\nprint",
+			"print",
+			"codesender",
+			"CodeSender",
+			"julia",
+			"keywords",
+			"julia"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"brkts",
+			"reversible_matching",
+			"posi",
+			"pos0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/choose_prog.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2093,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121,
+								121
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"set_window_title_was_dirty": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 76.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/Matlab/Matlab.sublime-syntax",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 67180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5278,
+								5278
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"override_audit_diff": false,
+							"override_audit_override": "Matlab.sublime-syntax",
+							"override_audit_package": "Matlab",
+							"syntax": "Packages/PackageDev/Package/Sublime Text Syntax Definition/Sublime Text Syntax Definition.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/getter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15872,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"set_window_title_was_dirty": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/betterment_tools.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 343,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								285,
+								285
+							]
+						],
+						"settings":
+						{
+							"auto_name": "find(pattern, start_point, <flags>)",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/ToDo.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_sender/sender.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10655,
+								10655
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 484.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/send_code.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"set_window_title_was_dirty": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/exec.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								351,
+								351
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"set_window_title_was_dirty": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 74,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 10,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/Terminus/TerminusReRun.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								280,
+								280
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/home/liesk/Dropbox/Everything/Julia/Julia_Demo.jl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+							"mark":
+							{
+								"flags": 144,
+								"icon": "Packages/Theme - Default/common/dot.png",
+								"regions":
+								[
+								],
+								"scope": "mark"
+							}
+						},
+						"selection":
+						[
+							[
+								134,
+								134
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Julia/Julia.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/home/liesk/Dropbox/Everything/MATLAB/MATLAB_projects/SendCode_matlab_demo.m",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								153,
+								153
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Matlab/Matlab.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/get_extra.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								485,
+								485
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/home/liesk/Dropbox/Everything/Python/rad_print.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								172,
+								172
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": false,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 15,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 125876,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125876,
+								125876
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"git_gutter_is_enabled": false,
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "/home/liesk/Dropbox/Everything/Python",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"terminus.highlight_counter": 6,
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"/bin/bash",
+									"-i",
+									"-l"
+								],
+								"config_name": "Login Shell",
+								"cwd": "/home/liesk/Dropbox/Everything/Python",
+								"env":
+								{
+									"LANG": "en_GB.UTF-8",
+									"TERM": "xterm-256color",
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": null,
+								"tag": null,
+								"timeit": false,
+								"title": "Terminus"
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.key.ctrl+k": true,
+							"terminus_view.key.ctrl+p": true,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.panel_name": null,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 170116.0,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162922.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				2
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.753948708588,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 357.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Matlab - Terminus.sublime-build",
+	"project": "Decoding_SendCode.sublime-project",
+	"replace":
+	{
+		"height": 87.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inv",
+				"PRO1---MME/Inverzni_dynamika.m"
+			],
+			[
+				"dynam",
+				"PRO1---MME/Inverzni_dynamika.m"
+			],
+			[
+				"jaco",
+				"PRO1---MME/2_inverzni_kinematika/Jacobi_Jz.m"
+			],
+			[
+				"",
+				"PRO1---MME/Inverzni_kinematika.m"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C1_func"
+			],
+			[
+				"f",
+				"finite_strain_tensor"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

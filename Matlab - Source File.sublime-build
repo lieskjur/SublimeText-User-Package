@@ -1,0 +1,5 @@
+{
+    "target": "send_code_build",
+    "code": "${file_base_name}",
+    "selector": "source.matlab"
+}
