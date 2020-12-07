@@ -1,0 +1,10 @@
+ChangeAnySetting
+	add "set_any_setting" to package
+	add "change_any_setting" package to package control
+
+SendCode
+	create part of filter for comments
+	play around with "\bkeyword\b" identification
+
+SublimeLinter
+	figure out how it works with mlint

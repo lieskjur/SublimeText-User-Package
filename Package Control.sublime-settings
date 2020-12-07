@@ -20,8 +20,10 @@
 		"Package Control",
 		"PackageDev",
 		"PackageResourceViewer",
-		"SendCode",
 		"SideBarTools",
+		"SnipTeX",
+		"SublimeLinter",
+		"SublimeLinter-contrib-mlint",
 		"Terminus"
 	]
 }

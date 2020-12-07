@@ -63,6 +63,13 @@
 		{ "keys": ["ctrl+space"], "command": "pass_code",
 			"context": [ {"key": "terminus_view", "operator": "not_equal"}, ]
 		},
+		{ "keys": ["ctrl+alt+enter"], "command": "toggle_any_setting",
+			"args":{
+				"settings_base_name": "SendCode.sublime-settings",
+				"setting": "auto_advance",
+			},
+			"context": [{"key": "panel_has_focus", "operator": "not_equal"}]
+		},
 
 		{
 	        "keys": ["ctrl+t","o"], "command": "send_code",

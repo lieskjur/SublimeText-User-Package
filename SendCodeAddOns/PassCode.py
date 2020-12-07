@@ -5,7 +5,6 @@ class PassCodeCommand(sublime_plugin.WindowCommand):
 	def run(self, text_command):
 		self.window.run_command("send_code", {
             "code": text_command,
-            #"prog": "terminus",
             })
 
 	def input(self,args):
@@ -16,6 +15,5 @@ class PassCodeCommand(sublime_plugin.WindowCommand):
 
 class TextCommandInputHandler(sublime_plugin.TextInputHandler):
 	
-	#should take any string
 	def initial_text(self):
 		return

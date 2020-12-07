@@ -168,6 +168,16 @@
 			}
 		},
 		{
+			"contents": "Searching 67 files for \"extract_\"\n\n/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/getter.py:\n  230          view = self.view\n  231          window = view.window()\n  232:         extracted_variables = window.extract_variables()\n  233  \n  234          variable_getter = {\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 307,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
 			"file": "/home/liesk/.config/sublime-text-3/Packages/Matlab/Matlab.sublime-syntax",
 			"settings":
 			{
@@ -181,25 +191,6 @@
 			"settings":
 			{
 				"buffer_size": 15872,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/betterment_tools.txt",
-			"settings":
-			{
-				"buffer_size": 343,
-				"encoding": "UTF-8",
-				"line_ending": "Unix",
-				"name": "find(pattern, start_point, <flags>)"
-			}
-		},
-		{
-			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/ToDo.txt",
-			"settings":
-			{
-				"buffer_size": 60,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -240,10 +231,29 @@
 			}
 		},
 		{
-			"contents": "import sublime\nself.s = sublime.load_settings(\"SendCode.sublime-settings\")",
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/betterment_tools.txt",
 			"settings":
 			{
-				"buffer_size": 74,
+				"buffer_size": 343,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "find(pattern, start_point, <flags>)"
+			}
+		},
+		{
+			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/ToDo.txt",
+			"settings":
+			{
+				"buffer_size": 60,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "PassCode.py",
+			"settings":
+			{
+				"buffer_size": 519,
 				"line_ending": "Unix"
 			}
 		},
@@ -314,6 +324,30 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"toggle ad",
+				"SendCode: Toggle Auto Advance"
+			],
+			[
+				"open pa",
+				"PackageDev: Open Package"
+			],
+			[
+				"togle aut",
+				"SendCode: Toggle Auto Advance Non-Empty"
+			],
+			[
+				"comna",
+				"Preferences: Commands - User"
+			],
+			[
+				"bre",
+				"Preferences: Browse Packages"
+			],
+			[
+				"brw",
+				"Preferences: Browse Packages"
+			],
 			[
 				"view re",
 				"PackageResourceViewer: Open Resource"
@@ -801,39 +835,31 @@
 			[
 				"pul",
 				"Origami: Pull File from Pane on the Left"
-			],
-			[
-				"origam",
-				"Origami: Pull File from Pane on the Left"
-			],
-			[
-				"them",
-				"Terminus Utilities: Select Theme"
-			],
-			[
-				"sele",
-				"Terminus Utilities: Select Theme"
-			],
-			[
-				"termin",
-				"Terminus: Reset"
-			],
-			[
-				"maxim",
-				"Terminus: Maximize to Tab"
-			],
-			[
-				"select",
-				"Terminus Utilities: Select Theme"
 			]
 		],
 		"width": 0.0
 	},
 	"console":
 	{
-		"height": 177.0,
+		"height": 233.0,
 		"history":
 		[
+			"window.run_command(\"set_any_setting\", {\"settings_base_name\": \"SendCode.sublime-settings\", \"setting\": \"julia\"})",
+			"window.run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"view.run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"application.run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"window.run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"view.run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"application.run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"window.run_command(\"toggle_any_setting\", {\"setting\": \"auto_complete\"})",
+			"window.run_command(\"toggle_any_setting\", {\"auto_complete\"})",
+			"window.run_command(\"toggle_any_setting\")",
+			"run_command(toggle_any_setting)",
+			"toggle_any_setting",
+			"toggle_any_setting.py",
+			"toggle_any_setting",
 			"print(view.line(view.text_point(view.rowcol(s.begin())[0], 0)))",
 			"print(view.line(view.text_point(row, 0)))",
 			"print(view.line(self.view.text_point(row, 0)))",
@@ -918,6 +944,9 @@
 	],
 	"file_history":
 	[
+		"/home/liesk/.config/sublime-text-3/Packages/User/SendCode.sublime-settings",
+		"/home/liesk/.config/sublime-text-3/Packages/User/Default.sublime-commands",
+		"/home/liesk/.config/sublime-text-3/Packages/User/toggle_any_setting.py",
 		"/home/liesk/.config/sublime-text-3/Packages/User/MakeTexRootLatextools.py",
 		"/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/__init__.py",
 		"/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/get_extra.py",
@@ -1042,14 +1071,11 @@
 		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Analyticke_reseni_p4/Transformation_matrices/Tt_x.m",
 		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Analyticke_reseni_p4/he",
 		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MME/Analyticke_reseni_p4/r1.m",
-		"/home/liesk/.config/sublime-text-3/Packages/User/Octave.sublime-build",
-		"/home/liesk/.config/sublime-text-3/Packages/User/Python3.sublime-build",
-		"/home/liesk/.config/sublime-text-3/Packages/User/Matlab_Terminus_TAB.sublime-build",
-		"/home/liesk/Dropbox/Everything/CVUT/7_semestr/MAME/cvika/cv3.m"
+		"/home/liesk/.config/sublime-text-3/Packages/User/Octave.sublime-build"
 	],
 	"find":
 	{
-		"height": 46.0
+		"height": 45.0
 	},
 	"find_in_files":
 	{
@@ -1064,6 +1090,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"extracted_variables",
+			"extract_",
+			"\"setting\"",
 			"end",
 			"block",
 			"string",
@@ -1136,6 +1165,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"setting",
 			"brkts",
 			"reversible_matching",
 			"posi",
@@ -1182,11 +1212,58 @@
 						"translation.y": 76.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 15,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 307,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										225,
+										233
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								213,
+								213
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"git_gutter_is_enabled": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ \t].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
 					"file": "/home/liesk/.config/sublime-text-3/Packages/Matlab/Matlab.sublime-syntax",
 					"semi_transient": false,
 					"settings":
@@ -1216,11 +1293,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 8,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 3,
 					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/getter.py",
 					"semi_transient": false,
 					"settings":
@@ -1232,8 +1309,8 @@
 						"selection":
 						[
 							[
-								66,
-								66
+								8425,
+								8425
 							]
 						],
 						"settings":
@@ -1245,37 +1322,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/betterment_tools.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 343,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								285,
-								285
-							]
-						],
-						"settings":
-						{
-							"auto_name": "find(pattern, start_point, <flags>)",
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 5571.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1283,35 +1330,6 @@
 				},
 				{
 					"buffer": 4,
-					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/ToDo.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 60,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								60,
-								60
-							]
-						],
-						"settings":
-						{
-							"git_gutter_is_enabled": true,
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
 					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_sender/sender.py",
 					"semi_transient": false,
 					"settings":
@@ -1342,7 +1360,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/send_code.py",
 					"semi_transient": false,
 					"settings":
@@ -1370,11 +1388,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 6,
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/exec.py",
 					"semi_transient": false,
 					"settings":
@@ -1386,8 +1404,8 @@
 						"selection":
 						[
 							[
-								234,
-								234
+								49,
+								49
 							]
 						],
 						"settings":
@@ -1399,11 +1417,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
+					"stack_index": 11,
 					"type": "text"
 				},
 				{
-					"buffer": 8,
+					"buffer": 7,
 					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/settings.py",
 					"semi_transient": false,
 					"settings":
@@ -1415,8 +1433,8 @@
 						"selection":
 						[
 							[
-								351,
-								351
+								93,
+								93
 							]
 						],
 						"settings":
@@ -1431,23 +1449,83 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 10,
 					"type": "text"
 				},
 				{
-					"buffer": 9,
+					"buffer": 8,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/betterment_tools.txt",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 74,
+						"buffer_size": 343,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15,
-								15
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"auto_name": "find(pattern, start_point, <flags>)",
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/ToDo.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 60,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "PassCode.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 519,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								460,
+								460
 							]
 						],
 						"settings":
@@ -1459,17 +1537,17 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 7,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
-					"buffer": 10,
+					"buffer": 11,
 					"file": "/home/liesk/.config/sublime-text-3/Packages/Terminus/TerminusReRun.py",
 					"semi_transient": false,
 					"settings":
@@ -1481,8 +1559,8 @@
 						"selection":
 						[
 							[
-								280,
-								280
+								831,
+								831
 							]
 						],
 						"settings":
@@ -1496,11 +1574,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 14,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 11,
+					"buffer": 12,
 					"file": "/home/liesk/Dropbox/Everything/Julia/Julia_Demo.jl",
 					"semi_transient": false,
 					"settings":
@@ -1534,11 +1612,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 13,
+					"stack_index": 16,
 					"type": "text"
 				},
 				{
-					"buffer": 12,
+					"buffer": 13,
 					"file": "/home/liesk/Dropbox/Everything/MATLAB/MATLAB_projects/SendCode_matlab_demo.m",
 					"semi_transient": false,
 					"settings":
@@ -1564,11 +1642,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 10,
+					"stack_index": 13,
 					"type": "text"
 				},
 				{
-					"buffer": 13,
+					"buffer": 14,
 					"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/get_extra.py",
 					"semi_transient": false,
 					"settings":
@@ -1595,11 +1673,11 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 9,
+					"stack_index": 12,
 					"type": "text"
 				},
 				{
-					"buffer": 14,
+					"buffer": 15,
 					"file": "/home/liesk/Dropbox/Everything/Python/rad_print.py",
 					"semi_transient": false,
 					"settings":
@@ -1624,7 +1702,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 11,
+					"stack_index": 14,
 					"type": "text"
 				}
 			]
@@ -1634,7 +1712,7 @@
 			"sheets":
 			[
 				{
-					"buffer": 15,
+					"buffer": 16,
 					"semi_transient": false,
 					"settings":
 					{
@@ -1719,7 +1797,7 @@
 						"translation.y": 162922.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 12,
+					"stack_index": 15,
 					"type": "text"
 				}
 			]
@@ -1786,7 +1864,7 @@
 	"project": "Decoding_SendCode.sublime-project",
 	"replace":
 	{
-		"height": 87.0
+		"height": 81.0
 	},
 	"save_all_on_build": true,
 	"select_file":
