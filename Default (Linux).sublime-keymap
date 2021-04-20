@@ -6,7 +6,37 @@
 		{ "keys": ["ctrl+,"], "command": "prev_modification" },
 		{ "keys": ["ctrl+."], "command": "next_modification" },
 
-	
+	// Latex
+		{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/bm.sublime-snippet" },
+			"context": [
+	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
+	        ]
+		},
+		{ "keys": ["alt+d"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/dot.sublime-snippet" },
+			"context": [
+	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
+	        ]
+		},
+		{ "keys": ["alt+w"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/vec_wrap.sublime-snippet" },
+			"context": [
+	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
+	        ]
+		},
+		{ "keys": ["alt+,"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/5mu_comma_quad.sublime-snippet" },
+			"context": [
+	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
+	        ]
+        },
+		{ "keys": ["alt+c"], "command": "smb_to_acc", 
+			"context": [
+	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+	        ]
+		},
+
 	// Marks (probably won't use)
 		{ "keys": ["ctrl+k", "ctrl+space"], "command": "set_mark" },
 		{ "keys": ["ctrl+k", "ctrl+shift+space"], "command": "clear_bookmarks", "args": {"name": "mark"} }, // originally ctrl+k,ctrl+g
@@ -19,7 +49,7 @@
 		//{ "keys": ["ctrl+alt+o"], "command": "close_pane" },
 		//{  "keys": ["ctrl+shift+o"], "command": "close_pane" },
 
-	// Replacing incremental find iwth quick find
+	// Replacing incremental find with quick find
 		{ "keys": ["ctrl+alt+i"], "command": "find_all_under" },
 		{ "keys": ["ctrl+i"], "command": "find_under" },
 		{ "keys": ["ctrl+shift+i"], "command": "find_under_prev" },
@@ -39,8 +69,7 @@
 		{ "keys": ["ctrl+\\"], "command": "toggle_side_bar" },
 		{ "keys": ["ctrl+shift+\\"], "command": "toggle_tabs" },
 
-	// Terminus
-		
+	// Terminus	
 		{ "keys": ["ctrl+shift+alt+t"], "command": "reopen_last_file" }, //remap of default "ctrl+shift+t"
 		{ "keys": ["ctrl+shift+t"], "command": "terminus_focus_or_open_direction_prompted", },
 		// add functionality with "Window_focus" command to cycle between last active and terminus
@@ -58,8 +87,7 @@
 			"context": [{"key": "terminus_view", "operator": "not_equal"}], 		
 		},
 
-	// SendCode
-		
+	// SendCode		
 		{ "keys": ["ctrl+space"], "command": "pass_code",
 			"context": [ {"key": "terminus_view", "operator": "not_equal"}, ]
 		},
@@ -110,14 +138,21 @@
 	    },
 
 	// Personalizing auto-complete
-
-		{ "keys": ["tab"], "command": "insert", "args": {"characters": "\t"} }, 
+		/*
+		{ "keys": ["tab"], "command": "next_field", "context":
+			[
+				{ "key": "has_next_field", "operator": "equal", "operand": true }
+			]
+		},
+		*/
+		//{ "keys": ["tab"], "command": "insert", "args": {"characters": "\t"} }, 
 		{ "keys": ["shift+enter"], "command": "commit_completion", "context":
 			[
 				{ "key": "auto_complete_visible" },
 				{ "key": "setting.auto_complete_commit_on_tab", "operand": false }
 			]
 		},
+
 	
 		{ "keys": ["enter"], "command": "insert", "args": {"characters": "\n"}, "context": [
 				{"key": "terminus_view", "operator": "not_equal", "operand": true},

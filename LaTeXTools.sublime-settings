@@ -200,7 +200,7 @@
 
 	"osx": 	{
 		// Path used when invoking tex & friends; MUST include $PATH
-		"texpath" : "$PATH:/Library/TeX/texbin:/usr/texbin:/usr/local/bin:/opt/local/bin:",
+		"texpath" : "$PATH:/Library/TeX/texbin:/usr/texbin:/usr/local/bin:/opt/local/bin"
 		// Path to PDF viewer, if needed
 		// TODO think about it. Also, maybe configure it here!
 	},
@@ -226,15 +226,15 @@
 
 	"linux" : {
 		// Path used when invoking tex & friends; MUST include $PATH
-		"texpath" : "$PATH:/usr/texbin:/home/liesk/.local/lib/python3.8/site-packages:/usr/bin",
+		"texpath" : "$PATH:/usr/texbin",
 		// Command to invoke Python. Useful if you have Python installed in a
 		// non-standard location or want to use a particular version of python.
 		// Both Python2 and Python3 are supported, but must have the DBus bindings
 		// installed.
-		"python": "/usr/bin/python3.8",
+		"python": "",
 		// The name of the ST2 or ST3 executable. On Ubuntu, both subl and sublime-text are
 		// available for ST2; adjust as needed for other platforms, and for ST3
-		"sublime": "subl",
+		"sublime": "sublime-text",
 		// How long to wait after evince or okular has launched before sending a sync message
 		// in seconds, floating point; choose 2.0 or 3.0 on a slower machine, 0.5 on a fast one
 		// Note: only tweak this if sync after launching the PDF viewer does not seem to work,
@@ -243,7 +243,7 @@
 		"sync_wait": 1.5,
 		// Command to invoke Sublime Text. Used if the keep_focus toggle is true.
 		// If blank, "subl" or "sublime_text" will be used.
-		"sublime_executable": "subl",
+		"sublime_executable": "",
 		// how long (in ms) to wait after the jump_to_pdf command completes
 		// before switching focus back to Sublime Text. This may need to be
 		// adjusted depending on your machine and configuration.
@@ -376,7 +376,7 @@
 	// NOTE: custom builders CANNOT have the same name as an existing
 	// built-in build engine (including "default")
 
-	"builder": "basic",
+	"builder": "traditional",
 
 	// OPTION: "builder_path"
 	// If non-empty, specifies a path to a custom builder, relative to the
@@ -397,14 +397,11 @@
 
 	"builder_settings" : {
 
-
-		"options": ["--shell-escape"],
-
 		// General settings:
 		// See README or third-party documentation
 
 		// (built-ins): true shows the log of each command in the output panel
-		"display_log" : true,
+		"display_log" : false,
 
 		// Platform-specific settings:
 		"osx" : {
@@ -487,7 +484,7 @@
 	//					Windows
 	//
 	// "zathura"		uses Zathura to open the pdf
-	"viewer": "zathura",
+	"viewer": "",
 
 	// OPTION: "viewer_settings"
 	// Specify viewer-dependent settings and preferences

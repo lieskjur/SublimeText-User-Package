@@ -12,6 +12,7 @@
 		"Julia",
 		"LaTeX-cwl",
 		"LaTeXTools",
+		"LSP",
 		"Matlab Completions",
 		"MatlabFilenameAutoComplete",
 		"Multicommand",
@@ -21,7 +22,6 @@
 		"PackageDev",
 		"PackageResourceViewer",
 		"SideBarTools",
-		"SnipTeX",
 		"SublimeLinter",
 		"SublimeLinter-contrib-mlint",
 		"Terminus"

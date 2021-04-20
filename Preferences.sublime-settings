@@ -1,6 +1,6 @@
 {
 	"auto_complete": true,
-	"auto_complete_commit_on_tab": false,
+	"auto_complete_commit_on_tab": true,
 	"auto_complete_triggers":
 	[
 		{
@@ -10,6 +10,11 @@
 	],
 	"auto_indent": true,
 	"auto_match_enabled": false,
+	"auto_update_ignore":
+	[
+		"SendCode",
+		"LatexTools"
+	],
 	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
@@ -28,10 +33,10 @@
 		"Git",
 		"Git Formats",
 		"Haskell",
-		"HTML",
 		"Java",
 		"JavaScript",
 		"Lisp",
+		"LSP",
 		"Lua",
 		"Makefile",
 		"Objective-C",
@@ -43,6 +48,8 @@
 		"Ruby",
 		"Rust",
 		"ShellScript",
+		"SublimeLinter",
+		"SublimeLinter-contrib-mlint",
 		"Vintage"
 	],
 	"line_padding_bottom": 5,

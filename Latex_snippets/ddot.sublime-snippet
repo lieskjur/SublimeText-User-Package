@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[\ddot{$1}$0]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>ddot</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>meta.environment.math</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>\ddot{}</description>
+</snippet>

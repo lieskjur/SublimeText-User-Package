@@ -1,6 +1,6 @@
 {
 	"auto_advance": true,
-	"auto_advance_non_empty": true,
+	"auto_advance_non_empty": false,
 	"julia":
 	{
 		"bracketed_paste_mode": true,

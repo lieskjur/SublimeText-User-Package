@@ -1,4 +1,13 @@
 [
+	{
+		"caption": "Convert symbols to czech accented characters",
+		"command": "smb_to_acc",
+	},
+	{
+		"caption": "Embolden math",
+		"command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/bm_wrap.sublime-snippet" }
+	},
+	
 	// Commands to open Certain Preferences
 	{
 		"caption": "Preferences: Commands - User",

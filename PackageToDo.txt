@@ -5,6 +5,11 @@ ChangeAnySetting
 SendCode
 	create part of filter for comments
 	play around with "\bkeyword\b" identification
+	advance through comment lines and comment blocks
 
 SublimeLinter
 	figure out how it works with mlint
+	maybe julia lint also
+
+Comment&Shift
+	comment out selection and move to end of line
