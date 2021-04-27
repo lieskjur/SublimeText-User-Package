@@ -397,11 +397,14 @@
 
 	"builder_settings" : {
 
+
+		"options": ["--shell-escape"],
+
 		// General settings:
 		// See README or third-party documentation
 
 		// (built-ins): true shows the log of each command in the output panel
-		"display_log" : false,
+		"display_log" : true,
 
 		// Platform-specific settings:
 		"osx" : {
@@ -484,7 +487,7 @@
 	//					Windows
 	//
 	// "zathura"		uses Zathura to open the pdf
-	"viewer": "",
+	"viewer": "zathura",
 
 	// OPTION: "viewer_settings"
 	// Specify viewer-dependent settings and preferences
