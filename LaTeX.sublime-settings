@@ -1,4 +1,0 @@
-// These settings override both User and Default settings for the LaTeX syntax
-{
-	"auto_complete_commit_on_tab": false,
-}

@@ -36,7 +36,6 @@
 		"Java",
 		"JavaScript",
 		"Lisp",
-		"LSP",
 		"Lua",
 		"Makefile",
 		"Objective-C",
@@ -48,8 +47,6 @@
 		"Ruby",
 		"Rust",
 		"ShellScript",
-		"SublimeLinter",
-		"SublimeLinter-contrib-mlint",
 		"Vintage"
 	],
 	"line_padding_bottom": 5,

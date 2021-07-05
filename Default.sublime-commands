@@ -125,36 +125,4 @@
 			]
 	},
 	
-	// Made redundant by SendCode
-		/*
-		{
-			"caption": "Terminus: Send Selection to Terminus",
-			"command": "send_selection_to_terminus",
-		},
-		{
-			"caption": "Terminus: 'cd' to Current File Directory",
-			"command": "cd_to_file_directory_terminus",
-		},
-		{
-			"caption": "Terminus: Save + Run current .m File in Running Matlab/Octave Command Line",
-			"command": "multicommand",
-					"args": {
-						"commands": [
-							{"command": "save"},
-							{"command": "run_matlab_file_in_terminus"}
-						]
-					},
-		},
-		{
-			"caption": "Terminus: Save + Run .py file",
-			"command": "multicommand",
-					"args": {
-						"commands": [
-							{"command": "save"},
-							{"command": "run_python_file_in_terminus"}
-						]
-					}
-		},
-		*/
-	
 ]

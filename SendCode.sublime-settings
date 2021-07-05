@@ -1,6 +1,7 @@
 {
 	"auto_advance": true,
 	"auto_advance_non_empty": false,
+	"prog": "terminus",
 	"julia":
 	{
 		"bracketed_paste_mode": true,
@@ -11,7 +12,6 @@
 		"bracketed_paste_mode": false,
 		"prog": "terminus"
 	},
-	"prog": "terminus",
 	"python":
 	{
 		"auto_advance_non_empty": false,

@@ -1,3 +1,6 @@
+Tex math
+	play around with emboldening selections
+
 ChangeAnySetting
 	add "set_any_setting" to package
 	add "change_any_setting" package to package control
@@ -8,8 +11,8 @@ SendCode
 	advance through comment lines and comment blocks
 
 SublimeLinter
-	figure out how it works with mlint
-	maybe julia lint also
+	julia
+	matlab (mlint)
 
 Comment&Shift
 	comment out selection and move to end of line

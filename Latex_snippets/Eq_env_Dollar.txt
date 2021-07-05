@@ -1,9 +1,0 @@
-find:
-\\begin{equation}\s*\n\s*(.*)\s*\n\s*\\end{equation}
-replace:
-\$\$ \1 \$\$
-
-find:
-^(\s*)\$\$\s*(.*)\s*\$\$
-replace:
-\1\\begin{equation}\n\1\t\2\n\1\\end{equation}

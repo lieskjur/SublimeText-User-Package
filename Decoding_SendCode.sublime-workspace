@@ -191,7 +191,7 @@
 			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/getter.py",
 			"settings":
 			{
-				"buffer_size": 14312,
+				"buffer_size": 14287,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -200,7 +200,7 @@
 			"file": "/home/liesk/.config/sublime-text-3/Packages/SendCode/code_getter/get_extra.py",
 			"settings":
 			{
-				"buffer_size": 2439,
+				"buffer_size": 2195,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -1209,15 +1209,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 14312,
+						"buffer_size": 14287,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12154,
-								12154
+								3468,
+								3468
 							]
 						],
 						"settings":
@@ -1247,15 +1247,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2439,
+						"buffer_size": 2195,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								713,
-								713
+								0,
+								0
 							]
 						],
 						"settings":

@@ -396,8 +396,7 @@
 	// Builder setting can be general or OS-dependent
 
 	"builder_settings" : {
-
-
+		
 		"options": ["--shell-escape"],
 
 		// General settings:

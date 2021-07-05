@@ -1,0 +1,31 @@
+User
+	PackageToDo.txt
+	ReplaceRegex.txt
+	SmbToAcc.py - should work for .md also (besides .tex)
+	SendCode.sublime-settings
+	Default.sublime-commands - must keep
+	Preferences.sublime-settings
+	will try deleting user mouse-map
+	removed windows user keymap
+	something weird in xml settings, will try deleting
+
+Terminus
+	additional plugins in /Terminus (now has a repo)
+	color scheme?
+SendCode
+	keybindings (seem good)
+	whole madness that is my personal repo
+	PassCode as a standalone plugin in /User
+MarkdownPreview
+	user settings - minor plus commented out mathjax
+Origami
+	keybindings overhaul
+	user settings - autoclose empy pane
+GitGutter
+	with user setting
+ChangeAnySetting
+
+Possible future installs
+	MarkdownEditing
+	SublimeLinter
+	LSP
