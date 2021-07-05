@@ -1,26 +1,26 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
-	"auto_complete_triggers":
-	[
-		{
-			"characters": "\\",
-			"selector": "text.tex.latex"
-		}
-	],
 	"auto_indent": true,
 	"auto_match_enabled": false,
-	"auto_update_ignore":
-	[
-		"SendCode",
-		"LatexTools"
-	],
 	"close_windows_when_empty": false,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"fade_fold_buttons": true,
 	"font_size": 10,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
+	"preview_on_click": true,
+	"remember_full_screen": true,
+	"show_encoding": true,
+	"show_full_path": false,
+	"smart_indent": true,
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"ignore_vcs_packages": true,
+	"auto_update_ignore":
+	[
+		"SendCode"
+	],
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -47,14 +47,6 @@
 		"Ruby",
 		"Rust",
 		"ShellScript",
-		"Vintage"
+		"Vintage",
 	],
-	"line_padding_bottom": 5,
-	"line_padding_top": 4,
-	"preview_on_click": true,
-	"remember_full_screen": true,
-	"show_encoding": true,
-	"show_full_path": false,
-	"smart_indent": true,
-	"theme": "Adaptive.sublime-theme"
 }

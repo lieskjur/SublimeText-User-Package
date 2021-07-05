@@ -36,6 +36,7 @@
 	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
 	        ]
 		},
+		
 	// Markdown
 		{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/bm.sublime-snippet" },
 			"context": [
@@ -86,14 +87,11 @@
 		{ "keys": ["ctrl+shift+\\"], "command": "toggle_tabs" },
 
 	// Terminus	
-		{ "keys": ["ctrl+shift+alt+t"], "command": "reopen_last_file" }, //remap of default "ctrl+shift+t"
-		{ "keys": ["ctrl+shift+t"], "command": "terminus_focus_or_open_direction_prompted", },
-		// add functionality with "Window_focus" command to cycle between last active and terminus
-		
-		{ "keys": ["ctrl+w"], "command": "terminus_close", "context": [{"key": "terminus_view"}] },
-
 		//{ "keys": ["ctrl+t"], "command": "transpose" }, //original binding
 		{ "keys": ["ctrl+t"], "command": "foo", },
+
+		{ "keys": ["ctrl+t","t"], "command": "terminus_focus_or_open_direction_prompted", },
+		// add functionality with "Window_focus" command to cycle between last active and terminus		
 
 		{ "keys": ["ctrl+t","r"], "command": "multicommand", "args": {
 			"commands": [
@@ -103,10 +101,13 @@
 			"context": [{"key": "terminus_view", "operator": "not_equal"}], 		
 		},
 
+		{ "keys": ["ctrl+w"], "command": "terminus_close", "context": [{"key": "terminus_view"}] },
+
 	// SendCode		
 		{ "keys": ["ctrl+space"], "command": "pass_code",
 			"context": [ {"key": "terminus_view", "operator": "not_equal"}, ]
 		},
+
 		{ "keys": ["ctrl+alt+enter"], "command": "toggle_any_setting",
 			"args":{
 				"settings_base_name": "SendCode.sublime-settings",
@@ -115,6 +116,7 @@
 			"context": [{"key": "panel_has_focus", "operator": "not_equal"}]
 		},
 
+		// Matlab
 		{
 	        "keys": ["ctrl+t","o"], "command": "send_code",
 	        "args": {"cmd": "matlab -nodesktop -nosplash \n"},
@@ -130,6 +132,7 @@
 	        ]
         },
 
+        // Julia
 	    {
 	        "keys": ["ctrl+t","o"], "command": "send_code",
 	        "args": {"cmd": "julia \n"},
@@ -145,6 +148,7 @@
 	        ]
 	    },
 
+	    // Python
 	    {
 	        "keys": ["ctrl+t","o"], "command": "send_code",
 	        "args": {"cmd": "python3 -u \n"},
@@ -232,7 +236,4 @@
 		{ "keys": ["ctrl+k", "ctrl+right"],"command": "unbound"},// "command": "focus_neighboring_group" },
 		{ "keys": ["ctrl+k", "ctrl+shift+left"],"command": "unbound"},// "command": "move_to_neighboring_group", "args": {"forward": false} },
 		{ "keys": ["ctrl+k", "ctrl+shift+right"],"command": "unbound"},// "command": "move_to_neighboring_group" },
-
-		
-	 
 ]
