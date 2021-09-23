@@ -1,4 +1,5 @@
 {
+	"ignore_vcs_packages" : true,
 	"bootstrapped": true,
 	"in_process_packages":
 	[
@@ -13,6 +14,7 @@
 		"LaTeX-cwl",
 		"LaTeXTools",
 		"LiveReload",
+		"LSP",
 		"MarkdownPreview",
 		"Matlab Completions",
 		"MatlabFilenameAutoComplete",
@@ -22,8 +24,9 @@
 		"Package Control",
 		"PackageDev",
 		"PackageResourceViewer",
+		"SendCode",
 		"SideBarTools",
 		"Terminus",
-		"UnicodeMath"
+		"UnicodeMath",
 	],
 }

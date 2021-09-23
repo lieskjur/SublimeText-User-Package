@@ -90,22 +90,17 @@
 		//{ "keys": ["ctrl+t"], "command": "transpose" }, //original binding
 		{ "keys": ["ctrl+t"], "command": "foo", },
 
-		{ "keys": ["ctrl+t","t"], "command": "terminus_focus_or_open_direction_prompted", },
-		// add functionality with "Window_focus" command to cycle between last active and terminus		
-
-		{ "keys": ["ctrl+t","r"], "command": "multicommand", "args": {
-			"commands": [
-				{ "command": "save"},
-				{ "command": "terminus_re_run" }, //create plugin "keystrokes to terminus"
-			] },
-			"context": [{"key": "terminus_view", "operator": "not_equal"}], 		
-		},
+		{ "keys": ["ctrl+t","t"], "command": "terminus_open_direction_prompted", },
 
 		{ "keys": ["ctrl+w"], "command": "terminus_close", "context": [{"key": "terminus_view"}] },
 
 	// SendCode		
 		{ "keys": ["ctrl+space"], "command": "pass_code",
-			"context": [ {"key": "terminus_view", "operator": "not_equal"}, ]
+			"context": [
+				{"key": "terminus_view", "operator": "not_equal"},
+	            {"key": "selector", "operator": "not_equal", "operand": "text.html.markdown"},
+	            {"key": "selector", "operator": "not_equal", "operand": "source.json.sublime.settings"}
+	        ]
 		},
 
 		{ "keys": ["ctrl+alt+enter"], "command": "toggle_any_setting",

@@ -64,21 +64,8 @@
 		}
 	},
 
-	// Universal Terminus Commands
-	{
-		"caption": "Terminus: Re-Run last command",
-		"command": "terminus_re_run",
-	},
-
-	// Focus or Open Terminus
-	{
-		"caption": "Terminus: Focus instance",
-		"command": "terminus_focus",
-	},
-	{
-		"caption": "Terminus: Focus or Open with Direction Prompt",
-		"command": "terminus_focus_or_open_direction_prompted",
-	},
+	// Terminus Plugins
+	
 	{
 		"caption": "Terminus: Open with Direction Prompt",
 		"command": "terminus_open_direction_prompted",
