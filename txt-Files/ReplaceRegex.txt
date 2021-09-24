@@ -17,3 +17,11 @@ ddollar to eq. env.
 $$ equations on single line to ```math ... ```
 \$\$\s*([^\$]*)\s*\$\$
 ```math\n$1\n```
+
+Latex \dot{} to unicode  ̇ (the dot doesn't render above the number 1)
+\\dot{(.)}
+$1̇
+
+Latex \ddot{\bm{}} to \bm{ ̈} (will go back to \bm{\ddot{ }} instead)
+\\ddot{\\bm{(.)}}
+\\bm{$1̈}

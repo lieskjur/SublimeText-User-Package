@@ -488,7 +488,7 @@
 	//					Windows
 	//
 	// "zathura"		uses Zathura to open the pdf
-	"viewer": "zathura",
+	"viewer": "evince",
 
 	// OPTION: "viewer_settings"
 	// Specify viewer-dependent settings and preferences

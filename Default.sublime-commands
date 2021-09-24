@@ -1,4 +1,11 @@
 [
+	// LatexTools
+	{
+		"caption": "LaTeXTools: Set Current File as \"TEXroot\" of Project",
+		"command": "set_file_as_project_texroot",
+	},
+
+	// TexMath
 	{
 		"caption": "Convert symbols to czech accented characters",
 		"command": "smb_to_acc",

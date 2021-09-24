@@ -7,25 +7,31 @@
 		{ "keys": ["ctrl+."], "command": "next_modification" },
 
 	// Latex
-		{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/bm.sublime-snippet" },
+		{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/bm.sublime-snippet" },
 			"context": [
 	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
 	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
 	        ]
 		},
-		{ "keys": ["alt+d"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/dot.sublime-snippet" },
+		{ "keys": ["alt+d"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/dot.sublime-snippet" },
 			"context": [
 	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
 	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
 	        ]
 		},
-		{ "keys": ["alt+w"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/vec_wrap.sublime-snippet" },
+		{ "keys": ["alt+shift+d"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/ddot.sublime-snippet" },
 			"context": [
 	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
 	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
 	        ]
 		},
-		{ "keys": ["alt+,"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/5mu_comma_quad.sublime-snippet" },
+		{ "keys": ["alt+w"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/vec_wrap.sublime-snippet" },
+			"context": [
+	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
+	        ]
+		},
+		{ "keys": ["alt+,"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/5mu_comma_quad.sublime-snippet" },
 			"context": [
 	            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
 	            { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
@@ -38,19 +44,29 @@
 		},
 		
 	// Markdown
-		{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/bm.sublime-snippet" },
+		{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/bm.sublime-snippet" },
 			"context": [
 	            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
 	        ]
 		},
-		{ "keys": ["alt+d"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/dot.sublime-snippet" },
+		{ "keys": ["alt+d"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/dot.sublime-snippet" },
 			"context": [
 	            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
 	        ]
 		},
-		{ "keys": ["alt+,"], "command": "insert_snippet", "args": { "name": "Packages/User/Latex_snippets/5mu_comma_quad.sublime-snippet" },
+		{ "keys": ["alt+shift+d"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/ddot.sublime-snippet" },
 			"context": [
 	            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+	        ]
+		},
+		{ "keys": ["alt+,"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/5mu_comma_quad.sublime-snippet" },
+			"context": [
+	            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+	        ]
+        },
+        { "keys": ["alt+m"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/display-markdown.sublime-snippet" },
+			"context": [
+	            { "key": "selector", "operator": "equal", "operand": "text.html.markdown" },
 	        ]
         },
 

@@ -1,14 +1,26 @@
 {
+	"font_face": "Fira Code", "font_options": ["subpixel_antialias","gray_antialias","ss01","ss02","ss07"], // v and ν are almost identical, options: r,<=,&,$,@,\\,=~!~,0
+	// "font_face": "Iosevka", // v and ν very similar, narrow spacing by default
+	// "font_face": "Cascadia Code", // Windows
+	// "font_face": "JetBrains Mono", // v and ν too similar, ̈ sits too close
+	// "font_face": "Monoid", // U+0307 and U+0308 don't combine
+	// "font_face": "Space Mono", // italic sits under line at some font sizes, no ligatures
+	// "font_face": "Victor mono", "font_options": ["ss01"], //  ̈ sits too close
+	// "font_face": "Hasklig", // only some ̈ are overset, not the greatest ligatures
+	// "font_face": "MPlus Code Latin 50", // only some ̈ are overset, not the greatest ligatures
+
+	"font_size": 11,
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+
 	"auto_complete": true,
+	"tab_completion": false,
 	"auto_complete_commit_on_tab": true,
 	"auto_indent": true,
 	"auto_match_enabled": false,
 	"close_windows_when_empty": false,
 	"dictionary": "Packages/Language - English/en_GB.dic",
 	"fade_fold_buttons": true,
-	"font_size": 10,
-	"line_padding_bottom": 5,
-	"line_padding_top": 5,
 	"preview_on_click": true,
 	"remember_full_screen": true,
 	"show_encoding": true,
@@ -16,11 +28,6 @@
 	"smart_indent": true,
 	"theme": "Adaptive.sublime-theme",
 	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
-	"ignore_vcs_packages": true,
-	"auto_update_ignore":
-	[
-		"SendCode"
-	],
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -36,6 +43,7 @@
 		"Java",
 		"JavaScript",
 		"Lisp",
+		"LSP",
 		"Lua",
 		"Makefile",
 		"Objective-C",
@@ -48,5 +56,10 @@
 		"Rust",
 		"ShellScript",
 		"Vintage",
+	],
+	"auto_complete_triggers":
+	[
+		{"selector": "text.tex.latex","characters": "\\",},
+		{"selector": "markup.raw","characters": "\\",}, 
 	],
 }
