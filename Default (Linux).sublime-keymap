@@ -168,6 +168,15 @@
 	        ]
 	    },
 
+	    //Terminal
+	    {
+			"keys": ["ctrl+t","c"], "command": "send_code",
+        	"args": {"cmd": "cd ${file_path}"},
+	        "context": [
+	            { "key": "selector", "operator": "equal", "operand": "source.c++" },
+	        ]
+        },
+
 	// Personalizing auto-complete
 		/*
 		{ "keys": ["tab"], "command": "next_field", "context":

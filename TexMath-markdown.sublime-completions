@@ -1,0 +1,7 @@
+{
+	"scope": "markup.raw",
+	"completions": [
+		"align",
+		"bmatrix",
+	]
+}

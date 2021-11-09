@@ -1,0 +1,15 @@
+{
+    "target": "send_code_build",
+    "code": "g++ \"${file}\" -o \"${file_path}/${file_base_name}\"",
+    "selector": "source.c++",
+    
+    "variants":
+    [
+        {
+            "name" : "Run",
+            "target": "send_code_build",
+            "code": "g++ \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\""
+        }
+    ]
+
+}

@@ -9,10 +9,11 @@
 	// "font_face": "Hasklig", // only some ̈ are overset, not the greatest ligatures
 	// "font_face": "MPlus Code Latin 50", // only some ̈ are overset, not the greatest ligatures
 
-	"font_size": 11,
+	"font_size": 12,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 
+	"show_project_first": true,
 	"auto_complete": true,
 	"tab_completion": false,
 	"auto_complete_commit_on_tab": true,
