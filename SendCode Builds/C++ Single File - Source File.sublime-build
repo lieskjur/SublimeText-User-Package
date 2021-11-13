@@ -9,6 +9,26 @@
             "name" : "Run",
             "target": "send_code_build",
             "code": "g++ \"${file}\" -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\""
+        },
+        {
+            "name" : "LAPACK",
+            "target": "send_code_build",
+            "code": "g++ \"${file}\" -lcblas -lblas -llapacke -o \"${file_path}/${file_base_name}\""
+        },
+        {
+            "name" : "LAPACK - Run",
+            "target": "send_code_build",
+            "code": "g++ \"${file}\" -lcblas -lblas -llapacke -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\""
+        },
+        {
+            "name" : "UMFPACK",
+            "target": "send_code_build",
+            "code": "g++ \"${file}\" -lumfpack -o \"${file_path}/${file_base_name}\""
+        },
+        {
+            "name" : "UMFPACK - Run",
+            "target": "send_code_build",
+            "code": "g++ \"${file}\" -lumfpack -o \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\""
         }
     ]
 

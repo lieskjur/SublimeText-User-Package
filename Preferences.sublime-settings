@@ -12,6 +12,8 @@
 	"font_size": 12,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
+	
+	"open_files_in_new_window": "always",
 
 	"show_project_first": true,
 	"auto_complete": true,
