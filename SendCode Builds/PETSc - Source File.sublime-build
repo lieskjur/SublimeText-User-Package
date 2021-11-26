@@ -1,0 +1,25 @@
+{
+    "target": "send_code_build",
+    "code": "make \"${file_path}/${file_base_name}\"",
+    "selector": "source.c++",
+    
+    "variants":
+    [
+        {
+            "name" : "Run",
+            "target": "send_code_build",
+            "code": "make \"${file_path}/${file_base_name}\" && \"${file_path}/${file_base_name}\""
+        },
+        {
+            "name" : "Run on 2 ",
+            "target": "send_code_build",
+            "code": "make \"${file_path}/${file_base_name}\" && mpiexec -n 2 \"${file_path}/${file_base_name}\""
+        },
+        {
+            "name" : "Run on 4 ",
+            "target": "send_code_build",
+            "code": "make \"${file_path}/${file_base_name}\" && mpiexec -n 4 \"${file_path}/${file_base_name}\""
+        },
+    ]
+
+}
