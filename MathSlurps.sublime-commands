@@ -1,0 +1,29 @@
+[
+	{
+		"caption": "MathSlurps: \\ẇ -> \\dot{w}",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "(\\w)̇",
+			"replace_pattern": "\\\\dot{\\1}",
+			"regex": true
+		}
+	},
+	{
+		"caption": "MathSlurps: \\ẅ -> \\ddot{w}",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "(\\w)",
+			"replace_pattern": "\\\\ddot{\\1}",
+			"regex": true
+		}
+	},	
+	{
+		"caption": "MathSlurps: ```math ``` -> \\begin{equation} \\end{equation}",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "```math\\n([^`]*)\\n```",
+			"replace_pattern": "\\\\begin{equation}\\n\\t\\1\\n\\\\end{equation}",
+			"regex": true
+		}
+	},
+]

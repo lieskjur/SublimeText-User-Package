@@ -6,22 +6,34 @@ Switch no brackets to square brackets
 (\w)([0-9])
 $1[$2]
 
-eq. env. to ddollar
+MathSlurps: \begin{equation} \end{equation} -> $$ $$
 \\begin{equation}\s*\n\s*(.*)\s*\n\s*\\end{equation}
 \$\$ \1 \$\$
 
-ddollar to eq. env.
+MathSlurps: $$ $$ -> \begin{equation} \end{equation}
 ^(\s*)\$\$\s*(.*)\s*\$\$
 \1\\begin{equation}\n\1\t\2\n\1\\end{equation}
 
-$$ equations on single line to ```math ... ```
+MathSlurps: $ $ -> ```math ```
 \$\$\s*([^\$]*)\s*\$\$
 ```math\n$1\n```
 
-Latex \dot{} to unicode  ̇ (the dot doesn't render above the number 1)
-\\dot{(.)}
-$1̇
+MathSlurps: ```math ``` -> \begin{equation} \end{equation}
+```math\n([^`]*)\n```
+\\begin{equation}\n\t\1\n\\end{equation}
 
-Latex \ddot{\bm{}} to \bm{ ̈} (will go back to \bm{\ddot{ }} instead)
-\\ddot{\\bm{(.)}}
-\\bm{$1̈}
+MathSlurps: $` `$ -> $ $
+\$`([^`]*)`\$
+\$\1\$
+
+MathSlurps: \dot{\w} -> \ẇ
+\\dot{\w}
+\1̇
+
+MathSlurps: ẇ -> \dot{w}
+(\w)̇
+\\dot{\1}
+
+MathSlurps: \ddot{\w} to \ẅ
+\\ddot{\w}
+\1̈
