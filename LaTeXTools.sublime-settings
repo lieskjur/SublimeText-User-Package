@@ -405,7 +405,7 @@
 		// See README or third-party documentation
 
 		// (built-ins): true shows the log of each command in the output panel
-		"display_log" : true,
+		"display_log" : false,
 
 		// Platform-specific settings:
 		"osx" : {

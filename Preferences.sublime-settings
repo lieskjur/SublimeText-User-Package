@@ -1,5 +1,5 @@
 {
-	"font_face": "Fira Code", "font_options": ["subpixel_antialias","gray_antialias","ss01","ss02","ss07"], // v and ν are almost identical, options: r,<=,&,$,@,\\,=~!~,0
+	"font_face": "FiraCode Nerd Font Frozen", "font_options": ["ss01","ss02","ss07"], // v and ν are almost identical, options: r,<=,&,$,@,\\,=~!~,0
 	// "font_face": "Iosevka", // v and ν very similar, narrow spacing by default
 	// "font_face": "Cascadia Code", // Windows
 	// "font_face": "JetBrains Mono", // v and ν too similar, ̈ sits too close
@@ -9,11 +9,20 @@
 	// "font_face": "Hasklig", // only some ̈ are overset, not the greatest ligatures
 	// "font_face": "MPlus Code Latin 50", // only some ̈ are overset, not the greatest ligatures
 
-	"font_size": 12,
+	"font_size": 13,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	
-	"open_files_in_new_window": "always",
+	"new_window_settings":
+	{
+		"menu_visible": false,
+	},
+	
+	"file_tab_style": "square",
+	"enable_tab_scrolling": true,
+	"hide_new_tab_button": true,
+	
+	// "open_files_in_new_window": "always",
 
 	"show_project_first": true,
 	"auto_complete": true,
@@ -30,7 +39,7 @@
 	"show_full_path": false,
 	"smart_indent": true,
 	"theme": "Adaptive.sublime-theme",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"color_scheme": "Monokai.sublime-color-scheme",
 	"ignored_packages":
 	[
 		"ActionScript",
@@ -46,7 +55,7 @@
 		"Java",
 		"JavaScript",
 		"Lisp",
-		"LSP",
+		"LSP-julia",
 		"Lua",
 		"Makefile",
 		"Objective-C",

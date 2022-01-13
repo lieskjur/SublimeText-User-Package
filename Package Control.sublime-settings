@@ -7,6 +7,7 @@
 	"installed_packages":
 	[
 		"AutomaticPackageReloader",
+		"CommandsBrowser",
 		"FileIcons",
 		"Git",
 		"GitGutter",
@@ -15,10 +16,10 @@
 		"LaTeXTools",
 		"LiveReload",
 		"LSP",
+		"LSP-julia",
 		"MarkdownPreview",
 		"Matlab Completions",
 		"MatlabFilenameAutoComplete",
-		"Multicommand",
 		"Origami",
 		"OverrideAudit",
 		"Package Control",
@@ -26,7 +27,6 @@
 		"PackageResourceViewer",
 		"SendCode",
 		"SideBarTools",
-		"Terminus",
 		"UnicodeMath",
 	],
 }

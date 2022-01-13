@@ -17,6 +17,12 @@
 	
 	// Commands to open Certain Preferences
 	{
+		"caption": "Preferences: Settings - User",
+		"command": "open_file", "args": {
+			"file": "${packages}/User/Preferences.sublime-settings",
+			}
+	},
+	{
 		"caption": "Preferences: Commands - User",
 		"command": "open_file", "args": {
 			"file": "${packages}/User/Default.sublime-commands",
@@ -117,6 +123,5 @@
 			"context": [
 				{ "key": "selector", "operator": "equal", "operand": "source.matlab" }
 			]
-	},
-	
+	}
 ]

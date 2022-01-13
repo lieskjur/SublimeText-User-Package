@@ -1,21 +1,22 @@
 {
 	"auto_advance": true,
 	"auto_advance_non_empty": false,
-	"prog": "terminus",
+	"prog": "linux-terminal",
 	"julia":
 	{
 		"bracketed_paste_mode": true,
-		"prog": "terminus"
+		"prog": "linux-terminal",
 	},
 	"matlab":
 	{
 		"bracketed_paste_mode": false,
-		"prog": "terminus"
+		"prog": "linux-terminal",
 	},
 	"python":
 	{
 		"auto_advance_non_empty": false,
 		"bracketed_paste_mode": true,
-		"prog": "terminus"
-	}
+		"prog": "linux-terminal",
+	},
+	"linux_terminal": "alacritty",
 }
