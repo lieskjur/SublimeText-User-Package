@@ -1,0 +1,69 @@
+[
+    { "keys": ["alt+c"], "command": "smb_to_acc", 
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown" },
+        ]
+	},
+    { "keys": ["alt+m"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/display-markdown.sublime-snippet" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown" },
+        ]
+    },
+	{ "keys": ["alt+,"], "command": "insert_snippet", "args": { "contents": "\\;,\\quad " },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+        ]
+    },
+		
+	{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "contents": "\\bm{$1}$0" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+            { "key": "selection_empty" }
+        ]
+	},
+	{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "contents": "\\bm{$SELECTION}" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+            { "key": "selection_empty", "operator": "not_equal" }
+        ]
+	},
+
+	{ "keys": ["alt+d"], "command": "insert_snippet", "args": { "contents": "\\dot{$1}$0" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+            { "key": "selection_empty" }
+        ]
+	},
+	{ "keys": ["alt+d"], "command": "insert_snippet", "args": { "contents": "\\dot{$SELECTION}" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+            { "key": "selection_empty", "operator": "not_equal" }
+        ]
+	},
+
+	{ "keys": ["alt+shift+d"], "command": "insert_snippet", "args": { "contents": "\\ddot{$1}$0" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+            { "key": "selection_empty" }
+        ]
+	},
+	{ "keys": ["alt+shift+d"], "command": "insert_snippet", "args": { "contents": "\\ddot{$SELECTION}" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+            { "key": "selection_empty", "operator": "not_equal" }
+        ]
+	},
+
+	{ "keys": ["alt+v"], "command": "insert_snippet", "args": { "contents": "\\vec{$1}$0" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+            { "key": "selection_empty" }
+        ]
+	},
+	{ "keys": ["alt+v"], "command": "insert_snippet", "args": { "contents": "\\vec{$SELECTION}" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "markup.raw" },
+            { "key": "selection_empty", "operator": "not_equal" }
+        ]
+	},
+]

@@ -1,5 +1,5 @@
 {
-	"font_face": "FiraCode Nerd Font Frozen", "font_options": ["ss01","ss02","ss07"], // v and ν are almost identical, options: r,<=,&,$,@,\\,=~!~,0
+	"font_face": "FiraCode Nerd Font", "font_options": ["ss01","ss02","ss07"], // v and ν are almost identical, options: r,<=,&,$,@,\\,=~!~,0
 	// "font_face": "Iosevka", // v and ν very similar, narrow spacing by default
 	// "font_face": "Cascadia Code", // Windows
 	// "font_face": "JetBrains Mono", // v and ν too similar, ̈ sits too close

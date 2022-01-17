@@ -1,4 +1,8 @@
 [
+	{
+		"caption": "File: Save As", "command": "prompt_save_as"
+	},
+
 	// LatexTools
 	{
 		"caption": "LaTeXTools: Set Current File as \"TEXroot\" of Project",
@@ -29,9 +33,21 @@
 			}
 	},
 	{
-		"caption": "Preferences: Key Binding - User",
+		"caption": "Preferences: Key Bindings - User",
 		"command": "open_file", "args": {
 			"file": "${packages}/User/Default ($platform).sublime-keymap",
+			}
+	},
+	{
+		"caption": "Preferences: Key Bindings - User - Markdown",
+		"command": "open_file", "args": {
+			"file": "${packages}/User/Keybindings-Markdown/Default.sublime-keymap",
+			}
+	},
+	{
+		"caption": "Preferences: Key Bindings - User - Latex",
+		"command": "open_file", "args": {
+			"file": "${packages}/User/Keybindings-Latex/Default.sublime-keymap",
 			}
 	},
 	{
