@@ -1,0 +1,6 @@
+// Settings in here override those in "LSP-clangd/LSP-clangd.sublime-settings"
+{
+	
+	"selector": "source.c | source.c++ | source.objc | source.objc++",
+	"enabled": false,
+}

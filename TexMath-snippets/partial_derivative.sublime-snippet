@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[frac{\\partial$1}{\\partial$2}$0]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>partialderivative</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>markup.raw</scope>
+    <scope>meta.environment.math</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>\frac{∂}{∂}</description>
+</snippet>

@@ -18,5 +18,5 @@
 		"bracketed_paste_mode": true,
 		"prog": "linux-terminal",
 	},
-	"linux_terminal": "alacritty",
+	"linux_terminal": "Alacritty",
 }

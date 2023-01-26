@@ -1,0 +1,14 @@
+[
+    { "keys": ["alt+m"], "command": "insert_snippet", "args": { "name": "Packages/User/HUGO/shortcode-katex-display.sublime-snippet" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown.hugo" },
+            { "key": "selector", "operator": "not_equal", "operand": "meta.paragraph.markdown" },
+        ]
+    },
+    { "keys": ["alt+m"], "command": "insert_snippet", "args": { "name": "Packages/User/HUGO/shortcode-katex-inline.sublime-snippet" },
+        "context": [
+            { "key": "selector", "operator": "equal", "operand": "text.html.markdown.hugo" },
+            { "key": "selector", "operator": "equal", "operand": "meta.paragraph.markdown" },
+        ]
+    },
+]

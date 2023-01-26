@@ -1,5 +1,5 @@
 {
-	"font_face": "FiraCode Nerd Font", "font_options": ["ss01","ss02","ss07"], // v and ν are almost identical, options: r,<=,&,$,@,\\,=~!~,0
+	"font_face": "Fira Code", // v and ν are almost identical, options: r,<=,&,$,@,\\,=~!~,0
 	// "font_face": "Iosevka", // v and ν very similar, narrow spacing by default
 	// "font_face": "Cascadia Code", // Windows
 	// "font_face": "JetBrains Mono", // v and ν too similar, ̈ sits too close
@@ -9,10 +9,11 @@
 	// "font_face": "Hasklig", // only some ̈ are overset, not the greatest ligatures
 	// "font_face": "MPlus Code Latin 50", // only some ̈ are overset, not the greatest ligatures
 
-	"font_size": 13,
+	"font_size": 11,
 	"line_padding_bottom": 3,
 	"line_padding_top": 3,
 	
+	"preview_on_click": "only_left",
 	"new_window_settings":
 	{
 		"menu_visible": false,
@@ -20,20 +21,21 @@
 	
 	"file_tab_style": "square",
 	"enable_tab_scrolling": true,
-	"hide_new_tab_button": true,
+	// "hide_new_tab_button": true,
 	
 	// "open_files_in_new_window": "always",
 
 	"show_project_first": true,
 	"auto_complete": true,
 	"tab_completion": false,
+	// "auto_complete_with_fields": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_indent": true,
 	"auto_match_enabled": false,
-	"close_windows_when_empty": false,
-	"dictionary": "Packages/Language - English/en_GB.dic",
+	"close_windows_when_empty": true,
+	"dictionary": "Packages/User/Czech.dic",
 	"fade_fold_buttons": true,
-	"preview_on_click": true,
+	/*"preview_on_click": true,*/
 	"remember_full_screen": true,
 	"show_encoding": true,
 	"show_full_path": false,
@@ -49,11 +51,10 @@
 		"Clojure",
 		"D",
 		"Erlang",
-		"Git",
-		"Git Formats",
 		"Haskell",
 		"Java",
-		"JavaScript",
+		"LaTeX-cwl",
+		"LaTeXTools",
 		"Lisp",
 		"LSP-julia",
 		"Lua",
@@ -66,12 +67,27 @@
 		"Rails",
 		"Ruby",
 		"Rust",
-		"ShellScript",
+		"SideBarTools",
 		"Vintage",
 	],
 	"auto_complete_triggers":
 	[
 		{"selector": "text.tex.latex","characters": "\\",},
 		{"selector": "markup.raw","characters": "\\",}, 
+	],
+	"added_words":
+	[
+		"tensegrity",
+		"Simscape",
+		"Multibody",
+		"Hermite",
+		"simscape",
+		"multibody",
+		"katex",
+	],
+	"ignored_words":
+	[
+		"centering",
+		"undeformed",
 	],
 }

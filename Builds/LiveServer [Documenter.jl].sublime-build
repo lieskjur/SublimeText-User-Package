@@ -1,0 +1,4 @@
+{
+ 	"cmd": ["julia", "$project_path/docs/build.jl"],
+ 	"selector": "source.julia"
+}

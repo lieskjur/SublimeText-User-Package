@@ -26,4 +26,142 @@
 			"regex": true
 		}
 	},
+
+	// Documenter.jl and gitlab (display) to HUGO shortcode
+	{
+		"caption": "MathSlurps: ```math ``` -> {{< katex display >}} {{< /katex >}}",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "```math\\n([^`]*)\\n```",
+			"replace_pattern": "{{< katex display >}}\\n\\1\\n{{< /katex >}}",
+			"regex": true
+		}
+	},
+	// Documenter.jl (inline) to HUGO shortcode
+	{
+		"caption": "MathSlurps: `` `` -> {{< katex >}} {{< /katex >}}",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "``([^`]*)``",
+			"replace_pattern": "{{< katex >}} \\1 {{< /katex >}}",
+			"regex": true
+		}
+	},
+	// gitlab (inline) to HUGO shortcode
+	{
+		"caption": "MathSlurps: $` `$ -> {{< katex >}} {{< /katex >}}",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "\\$`([^`]*)`\\$",
+			"replace_pattern": "{{< katex >}} \\1 {{< /katex >}}",
+			"regex": true
+		}
+	},
+
+	//Partial reverts of hugo
+	{
+		"caption": "MathSlurps: {{< katex display >}} -> $$",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "^{{< katex display >}}",
+			"replace_pattern": "\\$\\$",
+			"regex": true
+		}
+	},
+	{
+		"caption": "MathSlurps: {{< /katex >}} -> $$",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "^{{< /katex >}}",
+			"replace_pattern": "\\$\\$",
+			"regex": true
+		}
+	},
+	{
+		"caption": "MathSlurps: {{< katex >}} -> $",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "{{< katex >}}",
+			"replace_pattern": "\\\\\\\\(",
+			"regex": true
+		}
+	},
+	{
+		"caption": "MathSlurps: {{< /katex >}} -> $",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "{{< /katex >}}",
+			"replace_pattern": "\\\\\\\\)",
+			"regex": true
+		}
+	},
+
+
+	// {
+	// 	"caption": "MathSlurps: \\begin{equation} \\end{equation} -> ```math ```",
+	// 	"command": "show_panel", "args": {
+	// 		"panel": "replace",
+	// 		"pattern": "```\\\\begin{equation}\\n([^`]*)\\n```",
+	// 		"replace_pattern": "\\n\\t\\1\\n\\\\end{equation}",
+	// 		"regex": true
+	// 	}
+	// },
+	{
+		"caption": "MathSlurps: $` `$ -> ```math ```",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "\\$`([^`]*)`\\$",
+			"replace_pattern": "```math\n$1\n```",
+			"regex": true
+		}
+	},
+	{
+		"caption": "MathSlurps: $` `$ -> `` ``",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "\\$`([^`]*)`\\$",
+			"replace_pattern": "``$1``",
+			"regex": true
+		}
+	},
+	{
+		"caption": "MathSlurps: $ $ -> \\begin{equation} \\end{equation}",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "\\$([^\\$]*)\\$",
+			"replace_pattern": "\\\\begin{equation}\\n\\t\\1\\n\\\\end{equation}",
+			"regex": true
+		}
+	},
+
+	// Mathpix array to bmatrix
+	{
+		"caption": "MathSlurps: mathpix array -> bmatrix",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "^(\\h*)\\\\left\\[\\\\begin{array}{\\w*}\\n((?:\\1\\s+.*\n)*)\\1\\\\end{array}\\\\right\\]",
+			"replace_pattern": "\\1\\\\begin{bmatrix}\\n\\2\\1\\\\end{bmatrix}",
+			"regex": true
+		}
+	},
+
+	// LaTeX to Documenter.jl 
+	{
+		"caption": "MathSlurps: \\begin{equation} \\end{equation} -> ```math ```",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "^(\\h*)\\\\begin{equation}\\n((?:\\1\\s+.*\\n)*)\\1\\\\end{equation}",
+			"replace_pattern": "```math\n$2```",
+			"regex": true
+		}
+	},
+	{
+		"caption": "MathSlurps: $ $ -> `` ``",
+		"command": "show_panel", "args": {
+			"panel": "replace",
+			"pattern": "\\$([^\\$]*)\\$",
+			"replace_pattern": "``$1``",
+			"regex": true
+		}
+	},
 ]

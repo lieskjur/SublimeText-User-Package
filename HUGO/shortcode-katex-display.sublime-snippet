@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[{{< k display >}}
+$1
+{{< /k >}}$0]]></content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <!-- <tabTrigger></tabTrigger> -->
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>text.html.markdown.hugo</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>katex display shortcode</description>
+</snippet>

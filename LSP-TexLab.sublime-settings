@@ -1,0 +1,24 @@
+// Settings in here override those in "LSP-TexLab/LSP-TexLab.sublime-settings"
+
+{
+	"settings": {
+		"texlab.build.args": [
+			"-pdf",
+			"-interaction=nonstopmode",
+			"-synctex=1",
+			"-shell-escape",
+			"%f",
+			"-output-directory=build"
+		],
+		"texlab.build.forwardSearchAfter": true,
+		
+		"texlab.forwardSearch.executable": "okular",
+		"texlab.forwardSearch.args": ["--unique", "file:%p#src:%l%f"],
+		// "texlab.forwardSearch.executable": "/home/liesk/.local/bin/evince-synctex",
+		// "texlab.forwardSearch.args": ["-f", "%l", "%p", "\"subl %f:%l:%c\""],
+		
+		"texlab.auxDirectory": "build",
+		"texlab.chktex.onEdit": true,
+	},
+	"auto_complete_selector": "text.tex \\"
+}

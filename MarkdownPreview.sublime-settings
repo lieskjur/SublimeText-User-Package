@@ -1,10 +1,98 @@
 {
-    /*
-	"enable_mathjax": true,
-    "js": [
-	    "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js",
-        "res://MarkdownPreview/js/math_config.js",
+    "browser": "chromium",
+    "gitlab_mode": "markdown",
+    "parser": "markdown",
+    "markdown_extensions":
+    [
+        "markdown_katex",
+        "markdown.extensions.footnotes",
+        "markdown.extensions.attr_list",
+        "markdown.extensions.def_list",
+        "markdown.extensions.tables",
+        "markdown.extensions.abbr",
+        "markdown.extensions.md_in_html",
+        "pymdownx.betterem",
+        {
+            "markdown.extensions.toc":
+            {
+                "permalink": ""
+            }
+        },
+        "markdown.extensions.meta",
+        "markdown.extensions.sane_lists",
+        "markdown.extensions.smarty",
+        "markdown.extensions.wikilinks",
+        "markdown.extensions.admonition",
+        {
+            "pymdownx.superfences":
+            {
+                "custom_fences":
+                [
+                    {
+                        "class": "uml-flowchart",
+                        "format":
+                        {
+                            "!!python/name": "pymdownx.superfences.fence_code_format"
+                        },
+                        "name": "flow"
+                    },
+                    {
+                        "class": "uml-sequence-diagram",
+                        "format":
+                        {
+                            "!!python/name": "pymdownx.superfences.fence_code_format"
+                        },
+                        "name": "sequence"
+                    },
+                    {
+                        "class": "mermaid",
+                        "format":
+                        {
+                            "!!python/name": "pymdownx.superfences.fence_code_format"
+                        },
+                        "name": "mermaid"
+                    }
+                ]
+            }
+        },
+        {
+            "pymdownx.magiclink":
+            {
+                "repo_url_shortener": true,
+                "repo_url_shorthand": true
+            }
+        },
+        "pymdownx.tasklist",
+        {
+            "pymdownx.tilde":
+            {
+                "subscript": false
+            }
+        },
+        {
+            "pymdownx.emoji":
+            {
+                "alt": "short",
+                "emoji_generator":
+                {
+                    "!!python/name": "pymdownx.emoji.to_png"
+                },
+                "emoji_index":
+                {
+                    "!!python/name": "pymdownx.emoji.gemoji"
+                },
+                "options":
+                {
+                    "attributes":
+                    {
+                        "align": "absmiddle",
+                        "height": "20px",
+                        "width": "20px"
+                    },
+                    "image_path": "https://github.githubassets.com/images/icons/emoji/unicode/",
+                    "non_standard_image_path": "https://github.githubassets.com/images/icons/emoji/"
+                }
+            }
+        }
     ],
-    */
-    "browser": "firefox",
 }

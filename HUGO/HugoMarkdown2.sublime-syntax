@@ -1,0 +1,53 @@
+%YAML 1.2
+---
+# http://www.sublimetext.com/docs/syntax.html
+name: v2 Markdown (Hugo)
+scope: text.html.markdown.hugo
+version: 2
+
+extends: Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax
+
+contexts:
+
+  literals:
+    - meta_prepend: true
+    - include: hugo-shortcode
+
+  hugo-shortcode:
+    - match: |-
+         (?x)
+          {{hugo_shortcode_begin}}
+
+
+      # scope: meta.tag.hugo
+  #     captures:
+  #       1: punctuation.definition.tag.begin.hugo
+  #       2: entity.name.tag.hugo
+  #       3: shortcode.header.parameters.hugo
+  #       4: punctuation.definition.tag.end.hugo
+  #     embed: scope:shortcode.content.hugo
+  #     embed_scope: markup.raw.inline.markdown
+  #     escape: (\{\{<)\s?/(\2)\s?(>\}\})
+  #     escape_captures:
+  #       1: punctuation.definition.tag.begin.hugo
+  #       0: entity.name.tag.hugo
+  #       3: punctuation.definition.tag.end.hugo
+
+  hugo-shortcode-begin:
+    - match: (\{\{<)\s?
+      scope: meta.tag.hugo
+      captures:
+        1: punctuation.definition.tag.begin.hugo
+      embed: scope:entity.name.tag.hugo
+      embed_scope: plain.text
+      escape: \s?(>\}\})
+      escape_captures:
+        1: punctuation.definition.tag.end.hugo
+
+  hugo-shortcode-end:
+    - match: (\{\{<)\s?/\w*\s?(>\}\})
+      scope: meta.tag.hugo
+      captures:
+        1: punctuation.definition.tag.end.hugo
+        2: entity.name.tag.hugo
+        3: punctuation.definition.tag.end.hugo

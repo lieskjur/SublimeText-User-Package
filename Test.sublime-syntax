@@ -1,0 +1,23 @@
+%YAML 1.2
+---
+name: TestSyntax
+scope: text.test
+
+contexts:
+  main:
+    - include: hugo-shortcode
+
+  hugo-shortcode:
+    - match: \{\{<\s(\w*)\s*([^>\}\}]*)\s>\}\}\n{0,1}
+      captures:
+        0: hugo.shortcode.header
+        1: hugo.shortcode.header.name
+        2: hugo.shortcode.header.parameters
+      embed: scope:hugo.shortcode.content
+      embed_scope: markup.raw.inline.markdown
+      escape: \{\{<\s/(\1)\s>\}\}
+      escape_captures:
+        0: hugo.shortcode.footer
+        1: hugo.shortcode.footer.name
+
+

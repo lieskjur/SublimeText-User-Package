@@ -1,0 +1,3 @@
+{
+ 	"cmd": ["julia", "$project_path/docs/make.jl"],
+}

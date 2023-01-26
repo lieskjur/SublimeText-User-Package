@@ -1,3 +1,3 @@
 {
- 	"cmd": ["/usr/local/MATLAB/R2020b/bin/matlab", "-nosplash", "-nodesktop", "-r \"run('$file');exit\""]
+ 	"cmd": ["matlab", "-nosplash", "-nodesktop", "-r \"run('$file');exit\""]
 }

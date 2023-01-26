@@ -6,6 +6,7 @@
 	},
     { "keys": ["alt+m"], "command": "insert_snippet", "args": { "name": "Packages/User/TexMath-snippets/display-markdown.sublime-snippet" },
 		"context": [
+            { "key": "selector", "operator": "not_equal", "operand": "text.html.markdown.hugo" },
             { "key": "selector", "operator": "equal", "operand": "text.html.markdown" },
         ]
     },

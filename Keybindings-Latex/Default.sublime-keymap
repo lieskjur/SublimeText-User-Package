@@ -11,7 +11,20 @@
 	        { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
         ]
     },
-		
+
+    { "keys": ["alt+e"], "command": "insert_snippet", "args": { "contents": "\\emph{$1}$0" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+            { "key": "selection_empty" }
+        ]
+	},
+	{ "keys": ["alt+e"], "command": "insert_snippet", "args": { "contents": "\\emph{$SELECTION}" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+            { "key": "selection_empty", "operator": "not_equal" }
+        ]
+	},
+
 	{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "contents": "\\bm{$1}$0" },
 		"context": [
             { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
@@ -23,6 +36,20 @@
 		"context": [
             { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
 	        { "key": "selector", "operator": "equal", "operand": "meta.environment.math" },
+            { "key": "selection_empty", "operator": "not_equal" }
+        ]
+	},
+	{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "contents": "\\textbf{$1}$0" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+	        { "key": "selector", "operator": "not_equal", "operand": "meta.environment.math" },
+            { "key": "selection_empty" }
+        ]
+	},
+	{ "keys": ["alt+b"], "command": "insert_snippet", "args": { "contents": "\\textbf{$SELECTION}" },
+		"context": [
+            { "key": "selector", "operator": "equal", "operand": "text.tex.latex" },
+	        { "key": "selector", "operator": "not_equal", "operand": "meta.environment.math" },
             { "key": "selection_empty", "operator": "not_equal" }
         ]
 	},
