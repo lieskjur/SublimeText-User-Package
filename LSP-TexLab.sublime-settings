@@ -8,17 +8,31 @@
 			"-synctex=1",
 			"-shell-escape",
 			"%f",
-			"-output-directory=build"
+			// "-output-directory=build"
 		],
+		// "texlab.build.executable": "tectonic",
+		// "texlab.build.args": [
+		//     "-X",
+		//     "compile",
+		//     "%f",
+		//     "--synctex",
+		//     "--keep-logs",
+		//     "--keep-intermediates",
+		//     "--outdir=build",
+		//     "-Zshell-escape",
+		// ],
 		"texlab.build.forwardSearchAfter": true,
 		
-		"texlab.forwardSearch.executable": "okular",
-		"texlab.forwardSearch.args": ["--unique", "file:%p#src:%l%f"],
+		// "texlab.forwardSearch.executable": "okular",
+		// "texlab.forwardSearch.args": ["--unique", "file:%p#src:%l%f"],
+		"texlab.forwardSearch.executable": "zathura",
+		"texlab.forwardSearch.args": ["--synctex-forward", "%l:%c:%f", "%p"],
 		// "texlab.forwardSearch.executable": "/home/liesk/.local/bin/evince-synctex",
 		// "texlab.forwardSearch.args": ["-f", "%l", "%p", "\"subl %f:%l:%c\""],
 		
-		"texlab.auxDirectory": "build",
+		// "texlab.auxDirectory": "build",
 		"texlab.chktex.onEdit": true,
+		"texlab.chktex.onOpenAndSave": true,
 	},
 	"auto_complete_selector": "text.tex \\"
 }
